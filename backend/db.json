@@ -1,0 +1,3256 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "O'zbekcha osh",
+      "rating": 5.0,
+      "desc": "Bu oshni yeb ko'rmabsiz, bu dunyoga kelmabsiz. O'zbekcha oshning ta'mi boshqacha. Bosqichma bosqich qilsangiz hammasini eplab, mazzali oshingiz tayyor bo'ladi",
+      "cook": "Olimjanova Dilafruz",
+      "publishing_date": "15 yanvar, 2025",
+      "img": "https://www.orexca.com/img/cuisine/plov/uzbek-pilaf.jpg",
+      "cook_time": 150,
+      "ingredients": [
+        "1 kg guruch",
+        "1 kg qo’y go’shti",
+        "1 kg sabzi",
+        "300 ml o’simlik moyi",
+        "ta’bga ko’ra tuz."
+      ],
+      "steps": [
+        "Guruch bir necha marta toza suvda yuvib olinadi. So’nggi marta yuvganingizdan qolgan suv to’liq shaffof bo’lishi kerak. Go’shtni yuvib, kubik shaklida bo’laklab oling. Piyoz va sabzi po’stidan tozalanadi. 3 ta piyoz ingichka yarimhalqa, sabzini esa uzun 1 sm lik somoncha qilib kesib olish kerak..",
+        "Qozon qizdiriladi, moy solinadi va yengil tutaguncha qizdirishda davom etiladi.  Ustidan go’sht solinadi va u qobiq hosil qilguncha yaxshilab qovuriladi.",
+        "Ushbu bosqichda sabzi solinadi va aralashtirmasdan 3 daqiqa qovuriladi. .",
+        "Olov o’rtacha balandlikkacha pasaytiriladi va sabzi yumshoq bo’lmaguncha pishiriladi.",
+        "Guruch yana bir marta yuviladi va suvi to’kib tashlanadi"
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 2,
+      "name": "Manti",
+      "rating": 4.8,
+      "desc": "Bug’da pishiriladigan mazali manti har bir oila dasturxonining bezagi.",
+      "cook": "Karimov Rustam",
+      "publishing_date": "10 fevral, 2025",
+      "img": "https://i.pinimg.com/736x/9f/f0/dd/9ff0dd00886c5b875fc18b42507f50d3.jpg",
+      "cook_time": 90,
+      "ingredients": [
+        "1 kg un",
+        "500 g mol go’shti",
+        "2 ta piyoz",
+        "1 choy qoshiq tuz",
+        "1 choy qoshiq murch"
+      ],
+      "steps": [
+        "Un, tuz va iliq suvdan qattiqroq xamir qoriladi. Xamir silliq bo’lguncha yaxshilab yoğriladi, usti yopilib 30 daqiqa dam oldiriladi.",
+        "Go’sht va piyoz mayda qilib to’g’raladi yoki qiymalagichdan chiqariladi. Tuz va murch qo’shib yaxshilab aralashtiriladi.",
+        "Xamir yupqa qilib yoyiladi va kvadrat shakllarga kesiladi. Har bir bo’lak o’rtasiga ichlik solinadi.",
+        "Manti shakli berilib, bug’da pishirish qozoniga teriladi. 40–45 daqiqa davomida bug’da pishiriladi.",
+        "Tayyor mantilar ustiga eritilgan sariyog’ quyilib, qaymoq yoki suzma bilan dasturxonga tortiladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 3,
+      "name": "Somsa",
+      "rating": 4.7,
+      "desc": "Tandirda pishirilgan somsa juda mazali bo‘ladi.",
+      "cook": "Rahimova Nodira",
+      "publishing_date": "18 fevral, 2025",
+      "img": "https://i.ytimg.com/vi/e2VQfAaiaVY/hqdefault.jpg",
+      "cook_time": 80,
+      "ingredients": [
+        "1 kg un",
+        "600 g qo’y go’shti",
+        "3 ta piyoz",
+        "1 choy qoshiq tuz",
+        "1 choy qoshiq zira"
+      ],
+      "steps": [
+        "Un, tuz va suvdan xamir qoriladi va 20 daqiqa dam oldiriladi.",
+        "Go’sht va piyoz mayda to’g’raladi, tuz va zira qo’shib aralashtiriladi.",
+        "Xamir yoyilib, bo’laklarga kesiladi. Har biriga ichlik solinadi.",
+        "Somsa yopilib, ustiga tuxum surtiladi va kunjut sepiladi.",
+        "200°C da qizdirilgan pechda 35–40 daqiqa pishiriladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 4,
+      "name": "Lag‘mon",
+      "rating": 4.9,
+      "desc": "Qo‘lda cho‘zilgan lag‘mon juda to‘yimli taom.",
+      "cook": "Islomov Aziz",
+      "publishing_date": "22 fevral, 2025",
+      "img": "https://t4.ftcdn.net/jpg/02/31/48/03/360_F_231480324_BqyB5EmbS8LQg2uPF9SZHLovPQK8MfuO.jpg",
+      "cook_time": 120,
+      "ingredients": [
+        "Lag‘mon xamiri",
+        "500 g mol go’shti",
+        "2 ta sabzi",
+        "2 ta kartoshka",
+        "2 ta piyoz"
+      ],
+      "steps": [
+        "Xamir qorilib cho’zish uchun dam oldiriladi.",
+        "Go’sht kubik qilib to’g’raladi va qozonda qovuriladi.",
+        "Sabzavotlar qo’shilib birga qovuriladi.",
+        "Suv solinib, sho‘rva holiga keltiriladi va 25 daqiqa qaynatiladi.",
+        "Cho’zilgan lag‘mon qaynatilib, sho‘rva bilan birlashtiriladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 5,
+      "name": "Shurva",
+      "rating": 4.6,
+      "desc": "Qaynatma sho‘rva sovuq kunlarda ayni muddao.",
+      "cook": "Aliyev Bekzod",
+      "publishing_date": "1 mart, 2025",
+      "img": "https://ferganatourism.uz/thumb/2/v4SvIoQPtzzx7mlgX_H1gg/1200r1000/d/shurpa-3.jpg",
+      "cook_time": 110,
+      "ingredients": [
+        "1 kg qo’y go’shti",
+        "4 ta kartoshka",
+        "2 ta sabzi",
+        "2 ta piyoz",
+        "tuz, ziravorlar"
+      ],
+      "steps": [
+        "Go’sht sovuq suvda qaynatishga qo’yiladi.",
+        "Ko’piklari olinadi va past olovda 40 daqiqa qaynatiladi.",
+        "Sabzavotlar yirik qilib to’g’ralib solinadi.",
+        "Tuz va ziravorlar qo’shilib yana 30 daqiqa pishiriladi.",
+        "Ko’kat sepilib, issiq holda tortiladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 6,
+      "name": "Norin",
+      "rating": 4.5,
+      "desc": "Yupqa kesilgan xamir va go‘shtdan tayyorlanadi.",
+      "cook": "Yusupova Maftuna",
+      "publishing_date": "5 mart, 2025",
+      "img": "https://thumbs.dreamstime.com/b/uzbek-national-food-norin-traditional-fabric-adras-uzbekistan-most-tasty-central-asia-42176770.jpg",
+      "cook_time": 140,
+      "ingredients": [
+        "xamir",
+        "1 kg qo’y go’shti",
+        "tuz",
+        "suv",
+        "1 choy qoshiq zira"
+      ],
+      "steps": [
+        "Go’sht tuzli suvda uzoq qaynatiladi.",
+        "Xamir yupqa qilib yoyilib, qaynatiladi.",
+        "Go’sht va xamir ingichka kesiladi.",
+        "Aralashtirilib, sho‘rva bilan tortiladi.",
+        "Ustiga ko’kat sepiladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 7,
+      "name": "Qozon kabob",
+      "rating": 4.8,
+      "desc": "Qozonda pishirilgan kartoshkali kabob.",
+      "cook": "Tursunov Jamshid",
+      "publishing_date": "10 mart, 2025",
+      "img": "https://zira.uz/wp-content/uploads/2020/03/sahovat-kurica-5.jpg",
+      "cook_time": 100,
+      "ingredients": [
+        "1 kg mol go’shti",
+        "1 kg kartoshka",
+        "2 ta piyoz",
+        "tuz",
+        "murch"
+      ],
+      "steps": [
+        "Go’sht yirik bo’laklarga kesiladi.",
+        "Qozonda yog’da qovuriladi.",
+        "Kartoshka qo’shiladi va dimlanadi.",
+        "Tuz va murch sepiladi.",
+        "Past olovda 40 daqiqa pishiriladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 8,
+      "name": "Chuchvara",
+      "rating": 4.7,
+      "desc": "Mayda manti shaklidagi taom.",
+      "cook": "Sobirova Gulnoza",
+      "publishing_date": "15 mart, 2025",
+      "img": "https://narrativedictionary.navoiy-uni.uz/Files/a949b166-59a7-4a42-afe1-fe6f9716ebaf.jpg",
+      "cook_time": 70,
+      "ingredients": [
+        "un",
+        "500 g mol go’shti",
+        "2 ta piyoz",
+        "tuz",
+        "1 kg guruch"
+      ],
+      "steps": [
+        "Xamir qorilib yupqa yoyiladi.",
+        "Ichlik tayyorlanadi.",
+        "Mayda chuchvara shakli beriladi.",
+        "Qaynayotgan suvda pishiriladi.",
+        "Sho‘rva bilan tortiladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 9,
+      "name": "Hasip",
+      "rating": 4.4,
+      "desc": "Guruch va go‘shtdan tayyorlanadigan kolbasa.",
+      "cook": "Abdullayev Sanjar",
+      "publishing_date": "20 mart, 2025",
+      "img": "https://www.centralasia-travel.com/uploads/gallery/1090/hasip-05.jpg",
+      "cook_time": 130,
+      "ingredients": [
+        "ichak",
+        "500 g guruch",
+        "700 g go’sht",
+        "tuz, murch",
+        "ziravrorlar"
+      ],
+      "steps": [
+        "Ichaklar yaxshilab tozalanadi.",
+        "Guruch va go’sht aralashtiriladi.",
+        "Ichakka solinadi.",
+        "Bog’lanadi va qaynatiladi.",
+        "Qovurib tortiladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+      "id": 10,
+      "name": "Shashlik",
+      "rating": 4.9,
+      "desc": "Ko‘mirda pishirilgan go‘sht kabobi.",
+      "cook": "Ergashev Ulug‘bek",
+      "publishing_date": "25 mart, 2025",
+      "img": "https://turan-travel.com/uploads/blog/kabob/og-image/472091534846673.jpeg",
+      "cook_time": 60,
+      "ingredients": [
+        "1 kg qo’y go’shti",
+        "2 ta piyoz",
+        "tuz",
+        "1 choy qoshiq murch",
+        "1 kg mol go’shti"
+      ],
+      "steps": [
+        "Go’sht kubik qilib kesiladi.",
+        "Piyoz va ziravorlar bilan marinad qilinadi.",
+        "Shamplarga teriladi.",
+        "Ko’mirda aylantirib pishiriladi.",
+        "Issiq holda tortiladi."
+      ],
+      "category": "uzbek"
+    },
+    {
+        "id": 11,
+        "name": "Pizza Margherita",
+        "rating": 4.8,
+        "desc": "Italiyaga xos klassik pishloqli pitsa.",
+        "cook": "Rossi Marco",
+        "publishing_date": "5 aprel, 2025",
+        "img": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "pitsa xamiri",
+          "tomat sousi",
+          "mozzarella pishlog‘i",
+          "zaytun moyi",
+          "tuz"
+        ],
+        "steps": [
+          "Xamir yoyilib, dumaloq shaklga keltiriladi.",
+          "Ustiga tomat sousi bir tekis surtib chiqiladi.",
+          "Mozzarella pishlog‘i bo‘laklab ustiga sepiladi.",
+          "Ustidan ozgina zaytun moyi tomiziladi.",
+          "200°C pechda 12–15 daqiqa pishiriladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 12,
+        "name": "Spaghetti Bolognese",
+        "rating": 4.9,
+        "desc": "Go‘shtli italyan makaron taomi.",
+        "cook": "Bianchi Luca",
+        "publishing_date": "8 aprel, 2025",
+        "img": "https://img.taste.com.au/5qlr1PkR/taste/2016/11/spaghetti-bolognese-106560-1.jpeg",
+        "cook_time": 50,
+        "ingredients": [
+          "spagetti",
+          "mol go‘shti qiymasi",
+          "tomat sousi",
+          "piyoz",
+          "sarimsoq"
+        ],
+        "steps": [
+          "Spagetti sho‘r suvda qaynatib olinadi.",
+          "Tovada piyoz va sarimsoq qovuriladi.",
+          "Ustiga qiyma solinib, rangi o‘zgarguncha pishiriladi.",
+          "Tomat sousi qo‘shilib, 15 daqiqa dimlanadi.",
+          "Sous spagetti ustiga quyilib, tortiladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 13,
+        "name": "French Omelette",
+        "rating": 4.6,
+        "desc": "Yumshoq va yengil fransuzcha omlet.",
+        "cook": "Dubois Pierre",
+        "publishing_date": "10 aprel, 2025",
+        "img": "https://www.allrecipes.com/thmb/_Rnp6lT6pu2smaDMbMCBcxdpj94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57918-chef-johns-french-omelette-DDMFS-beauty-4x3-e86d2c805f0740d288a802f4eb1dd58e.jpg",
+        "cook_time": 15,
+        "ingredients": [
+          "tuxum",
+          "sariyog‘",
+          "sut",
+          "tuz",
+          "qora murch"
+        ],
+        "steps": [
+          "Tuxumlar idishga chaqiladi va sut bilan aralashtiriladi.",
+          "Tovada sariyog‘ eritiladi.",
+          "Tuxum aralashmasi quyilib, sekin pishiriladi.",
+          "Tuz va murch sepiladi.",
+          "Buklab, yumshoq holatda tortiladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 14,
+        "name": "Fish and Chips",
+        "rating": 4.7,
+        "desc": "Britaniyaga xos baliq va kartoshka qovurmasi.",
+        "cook": "Smith John",
+        "publishing_date": "12 aprel, 2025",
+        "img": "https://www.thespruceeats.com/thmb/sdVTq0h7xZvJjPr6bE2fhh5M3NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-best-fish-and-chips-recipe-434856-hero-01-27d8b57008414972822b866609d0af9b.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "baliq filesi",
+          "kartoshka",
+          "un",
+          "o‘simlik moyi",
+          "tuz"
+        ],
+        "steps": [
+          "Kartoshka uzun qilib kesiladi.",
+          "Baliq un bilan qoplanadi.",
+          "Yog‘ qizdirilib, kartoshka qovuriladi.",
+          "So‘ng baliq ham yog‘da qovuriladi.",
+          "Tuz sepilib, issiq holda tortiladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 15,
+        "name": "Greek Salad",
+        "rating": 4.5,
+        "desc": "Yengil va foydali yunon salati.",
+        "cook": "Papadopoulos Nikos",
+        "publishing_date": "15 aprel, 2025",
+        "img": "https://www.simplyrecipes.com/thmb/0NrKQlJ691l6L9tZXpL06uOuWis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Greek-Salad-LEAD-2-4601eff771fd4de38f9722e8cafc897a.jpg",
+        "cook_time": 15,
+        "ingredients": [
+          "pomidor",
+          "bodring",
+          "feta pishlog‘i",
+          "zaytun moyi",
+          "zaytun"
+        ],
+        "steps": [
+          "Pomidor va bodring to‘g‘raladi.",
+          "Zaytun va feta qo‘shiladi.",
+          "Ustidan zaytun moyi quyiladi.",
+          "Yengil aralashtiriladi.",
+          "Salqin holda tortiladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 16,
+        "name": "Beef Stroganoff",
+        "rating": 4.8,
+        "desc": "Qaymoqli ruscha go‘sht taomi.",
+        "cook": "Ivanov Dmitry",
+        "publishing_date": "18 aprel, 2025",
+        "img": "https://www.allrecipes.com/thmb/mSWde3PHTu-fDkbvWBw0D1JlS8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25202beef-stroganoff-iii-ddmfs-3x4-233-0f26fa477e9c446b970a32502468efc6.jpg",
+        "cook_time": 55,
+        "ingredients": [
+          "mol go‘shti bo‘laklari",
+          "qo‘ziqorin",
+          "piyoz",
+          "smetana",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Go‘sht bo‘laklari sariyog‘da qovuriladi.",
+          "Piyoz va qo‘ziqorin qo‘shiladi.",
+          "Yumshaguncha pishiriladi.",
+          "Ustidan smetana solinadi.",
+          "Past olovda 10 daqiqa dimlanadi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 17,
+        "name": "Lasagna",
+        "rating": 4.9,
+        "desc": "Qatlam-qatlam italyan taomi.",
+        "cook": "Verdi Antonio",
+        "publishing_date": "20 aprel, 2025",
+        "img": "https://assets.bonappetit.com/photos/656f48d75b552734225041ba/4:3/w_4172,h_3129,c_limit/20231120-WEB-Lasanga-6422.jpg",
+        "cook_time": 70,
+        "ingredients": [
+          "lazanya xamiri",
+          "mol go‘shti qiymasi",
+          "tomat sousi",
+          "pishloq",
+          "sut"
+        ],
+        "steps": [
+          "Qiymadan sous tayyorlanadi.",
+          "Qolipga xamir varaq solinadi.",
+          "Ustiga sous va pishloq qo‘yiladi.",
+          "Qatlamlar takrorlanadi.",
+          "Pechda 45 daqiqa pishiriladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 18,
+        "name": "Paella",
+        "rating": 4.7,
+        "desc": "Ispan guruchli dengiz mahsulotlari taomi.",
+        "cook": "Garcia Miguel",
+        "publishing_date": "22 aprel, 2025",
+        "img": "https://mahatmarice.com/wp-content/uploads/2019/08/Authentic-Spanish-Paella.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "guruch",
+          "tovuq go‘shti",
+          "krevetka",
+          "bulg‘or qalampiri",
+          "zaytun moyi"
+        ],
+        "steps": [
+          "Tovuq go‘shti yog‘da qovuriladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Guruch solinib aralashtiriladi.",
+          "Suv quyilib, dimlanadi.",
+          "Ustiga krevetka qo‘shib pishiriladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 19,
+        "name": "Risotto",
+        "rating": 4.6,
+        "desc": "Qaymoqli italyan guruch taomi.",
+        "cook": "Conti Fabio",
+        "publishing_date": "24 aprel, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9oPEW9QoEq1xdOIHH6YOnx5S-nx3dz4eKw&s",
+        "cook_time": 45,
+        "ingredients": [
+          "guruch",
+          "tovuq bulyoni",
+          "sariyog‘",
+          "pishloq",
+          "piyoz"
+        ],
+        "steps": [
+          "Piyoz sariyog‘da qovuriladi.",
+          "Guruch solinib aralashtiriladi.",
+          "Bulyon asta-sekin quyiladi.",
+          "Doim aralashtirib pishiriladi.",
+          "Ustiga pishloq qo‘shiladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 20,
+        "name": "Pancakes",
+        "rating": 4.8,
+        "desc": "Yumshoq yevropacha quymoq.",
+        "cook": "Brown Emily",
+        "publishing_date": "26 aprel, 2025",
+        "img": "https://www.marthastewart.com/thmb/Vgb9cQSlegZz5fcoSbkkqyHPmHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/338185-basic-pancakes-09-00b18f8418fd4e52bb2050173d083d04.jpg",
+        "cook_time": 25,
+        "ingredients": [
+          "un",
+          "tuxum",
+          "sut",
+          "shakar",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Un, tuxum va sut aralashtiriladi.",
+          "Shakar qo‘shilib xamir qilinadi.",
+          "Tovada sariyog‘ eritiladi.",
+          "Xamir quyilib ikki tomoni pishiriladi.",
+          "Asal yoki murabbo bilan tortiladi."
+        ],
+        "category": "european"
+      },
+      {
+        "id": 21,
+        "name": "Kung Pao Chicken",
+        "rating": 4.8,
+        "desc": "Achchiq va shirin tovuqli xitoy taomi.",
+        "cook": "Li Wei",
+        "publishing_date": "1 may, 2025",
+        "img": "https://www.allrecipes.com/thmb/77x4rJvy5T1z_Iyc52NK7pDOkJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9027-kung-pao-chicken-ddmfs-4x3-hero-9a10c2277f65472a941d932313caab86.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "tovuq go‘shti",
+          "yer yong‘oq",
+          "soya sousi",
+          "sarimsoq",
+          "achchiq qalampir"
+        ],
+        "steps": [
+          "Tovuq go‘shti mayda bo‘laklarga kesiladi.",
+          "Sarimsoq va qalampir yog‘da qovuriladi.",
+          "Ustiga tovuq solinib tez qovuriladi.",
+          "Soya sousi qo‘shib aralashtiriladi.",
+          "Yer yong‘oq sepib tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 22,
+        "name": "Sweet and Sour Pork",
+        "rating": 4.7,
+        "desc": "Shirin-nordon sousli cho‘chqa go‘shti.",
+        "cook": "Zhang Min",
+        "publishing_date": "3 may, 2025",
+        "img": "https://images.getrecipekit.com/20221210202557-central-20sweet-20and-20sour-20pork.png?aspect_ratio=16:9&quality=90&",
+        "cook_time": 45,
+        "ingredients": [
+          "cho‘chqa go‘shti",
+          "ananas",
+          "tomat pastasi",
+          "shakar",
+          "sirka"
+        ],
+        "steps": [
+          "Go‘sht bo‘laklarga kesiladi.",
+          "Yog‘da qizartirib olinadi.",
+          "Ananas va tomat pastasi qo‘shiladi.",
+          "Shakar va sirka solinadi.",
+          "Sous quyuqlashguncha dimlanadi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 23,
+        "name": "Fried Rice",
+        "rating": 4.6,
+        "desc": "Tuxum va sabzavotli qovurilgan guruch.",
+        "cook": "Chen Yu",
+        "publishing_date": "5 may, 2025",
+        "img": "https://cicili.tv/wp-content/uploads/2024/08/Chicken-Fried-Rice-Small-2.jpg",
+        "cook_time": 25,
+        "ingredients": [
+          "pishgan guruch",
+          "tuxum",
+          "yashil piyoz",
+          "soya sousi",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Tuxum tovaga quyilib aralashtiriladi.",
+          "Ustiga guruch qo‘shiladi.",
+          "Yashil piyoz solinadi.",
+          "Soya sousi bilan aralashtiriladi.",
+          "Qiziguncha qovurilib tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 24,
+        "name": "Chow Mein",
+        "rating": 4.7,
+        "desc": "Sabzavotli va go‘shtli qovurilgan lag‘mon.",
+        "cook": "Wang Lei",
+        "publishing_date": "7 may, 2025",
+        "img": "https://images.getrecipekit.com/20221130023757-untitled-design-12-3.png?aspect_ratio=16:9&quality=90&",
+        "cook_time": 35,
+        "ingredients": [
+          "lag‘mon",
+          "mol go‘shti",
+          "sabzi",
+          "karam",
+          "soya sousi"
+        ],
+        "steps": [
+          "Lag‘mon qaynatib olinadi.",
+          "Go‘sht tovaga solib qovuriladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Lag‘mon solib aralashtiriladi.",
+          "Soya sousi bilan pishiriladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 25,
+        "name": "Spring Rolls",
+        "rating": 4.5,
+        "desc": "Ichiga sabzavot solingan qovurilgan rulon.",
+        "cook": "Liu Fang",
+        "publishing_date": "9 may, 2025",
+        "img": "https://cdn.jwplayer.com/v2/media/RlTqyEqx/thumbnails/gaZLC2nx.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "xamir varaqasi",
+          "karam",
+          "sabzi",
+          "piyoz",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Sabzavotlar mayda to‘g‘raladi.",
+          "Xamirga sabzavot solinadi.",
+          "Rulon qilib o‘raladi.",
+          "Yog‘da qovuriladi.",
+          "Qizargach tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 26,
+        "name": "Mapo Tofu",
+        "rating": 4.8,
+        "desc": "Achchiq sousli tofu taomi.",
+        "cook": "Huang Bo",
+        "publishing_date": "11 may, 2025",
+        "img": "https://www.seriouseats.com/thmb/CaR7btHrJgEO3OKZD1Z_795VmII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2011__07__2021-02-12-Mapo-Tofu-MHOM-10-804db1211f1d47dbae505341d1e7b994.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "tofu",
+          "mol go‘shti qiymasi",
+          "sarimsoq",
+          "achchiq qalampir pastasi",
+          "soya sousi"
+        ],
+        "steps": [
+          "Qiymani tovaga solib qovuriladi.",
+          "Sarimsoq va qalampir pastasi qo‘shiladi.",
+          "Tofu kubiklab solinadi.",
+          "Soya sousi bilan aralashtiriladi.",
+          "5–10 daqiqa dimlanadi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 27,
+        "name": "Dumplings",
+        "rating": 4.9,
+        "desc": "Go‘shtli bug‘da pishirilgan chuchvara.",
+        "cook": "Sun Mei",
+        "publishing_date": "13 may, 2025",
+        "img": "https://static01.nyt.com/images/2025/01/29/multimedia/27Dumpling-week-chocolate-cwvl/27Dumpling-week-chocolate-cwvl-master768.jpg",
+        "cook_time": 50,
+        "ingredients": [
+          "xamir",
+          "mol go‘shti qiymasi",
+          "piyoz",
+          "sarimsoq",
+          "soya sousi"
+        ],
+        "steps": [
+          "Xamir yupqa yoyiladi.",
+          "Ichiga qiyma solinadi.",
+          "Yopib chuchvara qilinadi.",
+          "Bug‘da 20 daqiqa pishiriladi.",
+          "Sous bilan tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 28,
+        "name": "Hot Pot",
+        "rating": 4.7,
+        "desc": "Qaynagan sho‘rvada pishiriladigan aralash taom.",
+        "cook": "Zhou Lin",
+        "publishing_date": "15 may, 2025",
+        "img": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2024/01/hot-pot-1862w-1024x683.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "mol go‘shti bo‘laklari",
+          "karam",
+          "qo‘ziqorin",
+          "tofu",
+          "bulyon"
+        ],
+        "steps": [
+          "Bulyon qozonda qaynaydi.",
+          "Go‘sht va sabzavotlar solinadi.",
+          "Tofu qo‘shiladi.",
+          "Bir necha daqiqa qaynatiladi.",
+          "Issiq holda tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 29,
+        "name": "Peking Duck",
+        "rating": 5.0,
+        "desc": "Qarsildoq terili mashhur o‘rdak taomi.",
+        "cook": "Gao Sheng",
+        "publishing_date": "17 may, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDx6r6LLddqWonCV89P49egTbuQsM-_SN-Q&s",
+        "cook_time": 120,
+        "ingredients": [
+          "o‘rdak go‘shti",
+          "asal",
+          "soya sousi",
+          "sarimsoq",
+          "zanjabil"
+        ],
+        "steps": [
+          "O‘rdak tozalanib yuviladi.",
+          "Asal va soya sousi surtiladi.",
+          "Sarimsoq va zanjabil bilan ishqalab chiqiladi.",
+          "Pechda sekin pishiriladi.",
+          "Bo‘laklab tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 30,
+        "name": "Wonton Soup",
+        "rating": 4.6,
+        "desc": "Chuchvarali yengil sho‘rva.",
+        "cook": "Lin Qiao",
+        "publishing_date": "19 may, 2025",
+        "img": "https://www.allrecipes.com/thmb/oiO3k3uir05bhdLXCDh9lnEob8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-4x3-31bd1ef2795144ee93fed67a1cf3743d.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "wonton chuchvarasi",
+          "tovuq bulyoni",
+          "yashil piyoz",
+          "sarimsoq",
+          "soya sousi"
+        ],
+        "steps": [
+          "Bulyon qozonda qaynatiladi.",
+          "Wontonlar solinadi.",
+          "Sarimsoq va soya sousi qo‘shiladi.",
+          "5–7 daqiqa pishiriladi.",
+          "Yashil piyoz sepib tortiladi."
+        ],
+        "category": "chinese"
+      },
+      {
+        "id": 31,
+        "name": "Kimchi",
+        "rating": 4.8,
+        "desc": "Achchiq va nordon koreys karam salati.",
+        "cook": "Park Ji-hoon",
+        "publishing_date": "1 iyun, 2025",
+        "img": "https://sugaryums.com/wp-content/uploads/2023/03/Baechu-Kimchi-Cabbage-Kimchi-Recipe-SugarYums-17.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "karam",
+          "sarimsoq",
+          "achchiq qalampir kukuni",
+          "tuz",
+          "zanjabil"
+        ],
+        "steps": [
+          "Karam bo‘laklab kesiladi va tuzlanadi.",
+          "Bir necha soat dam beriladi.",
+          "Sarimsoq, zanjabil va qalampir aralashtiriladi.",
+          "Karamga aralashtma surtiladi.",
+          "Idishga solib fermentatsiyaga qo‘yiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 32,
+        "name": "Bibimbap",
+        "rating": 4.9,
+        "desc": "Sabzavot va go‘shtli guruch taomi.",
+        "cook": "Kim Min-seo",
+        "publishing_date": "3 iyun, 2025",
+        "img": "https://res.cloudinary.com/hellochef/image/upload/c_fit/q_auto/dpr_auto/n4fjbctl5ffexe634ti5?_a=E",
+        "cook_time": 45,
+        "ingredients": [
+          "guruch",
+          "mol go‘shti",
+          "sabzi",
+          "tuxum",
+          "soya sousi"
+        ],
+        "steps": [
+          "Guruch qaynatib olinadi.",
+          "Go‘sht qovuriladi.",
+          "Sabzavotlar alohida qovuriladi.",
+          "Hammasi idishga chiroyli joylanadi.",
+          "Ustiga tuxum qo‘yib tortiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 33,
+        "name": "Bulgogi",
+        "rating": 5.0,
+        "desc": "Marinad qilingan mol go‘shti taomi.",
+        "cook": "Lee Sung-ho",
+        "publishing_date": "5 iyun, 2025",
+        "img": "https://images.food52.com/CAFKbmiHMu2bM0kpvlZM3B4IU-A=/1d5da97f-32ff-4f50-8e40-77d884b1b0d7--Bulgogi_Kimchimari.jpg?w=3840&q=75",
+        "cook_time": 40,
+        "ingredients": [
+          "mol go‘shti",
+          "soya sousi",
+          "sarimsoq",
+          "asal",
+          "piyoz"
+        ],
+        "steps": [
+          "Go‘sht yupqa kesiladi.",
+          "Sous, asal va sarimsoq bilan marinad qilinadi.",
+          "Bir necha soat dam beriladi.",
+          "Tovada tez qovuriladi.",
+          "Issiq holda tortiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 34,
+        "name": "Tteokbokki",
+        "rating": 4.7,
+        "desc": "Achchiq sousli guruch tayoqchalari.",
+        "cook": "Choi Eun-ji",
+        "publishing_date": "7 iyun, 2025",
+        "img": "https://asianinspirations.com.au/wp-content/uploads/2021/09/R00397-Hot-Spicy-Tteokbokki.jpg",
+        "cook_time": 35,
+        "ingredients": [
+          "guruch tayoqchalari",
+          "achchiq qalampir pastasi",
+          "shakar",
+          "sarimsoq",
+          "suv"
+        ],
+        "steps": [
+          "Suv qozonda qaynaydi.",
+          "Qalampir pastasi va shakar qo‘shiladi.",
+          "Guruch tayoqchalari solinadi.",
+          "Quyuqlashguncha pishiriladi.",
+          "Issiq holda tortiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 35,
+        "name": "Japchae",
+        "rating": 4.8,
+        "desc": "Shirin kartoshka lag‘moni bilan taom.",
+        "cook": "Han Soo-jin",
+        "publishing_date": "9 iyun, 2025",
+        "img": "https://i2.wp.com/hipfoodiemom.com/wp-content/uploads/2017/02/IMG_0979_new.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "shirin kartoshka lag‘moni",
+          "mol go‘shti",
+          "sabzi",
+          "piyoz",
+          "soya sousi"
+        ],
+        "steps": [
+          "Lag‘mon qaynatib olinadi.",
+          "Go‘sht qovuriladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Lag‘mon solinadi.",
+          "Soya sousi bilan aralashtiriladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 36,
+        "name": "Samgyeopsal",
+        "rating": 4.9,
+        "desc": "Grilda pishirilgan cho‘chqa go‘shti.",
+        "cook": "Jung Tae-hyun",
+        "publishing_date": "11 iyun, 2025",
+        "img": "https://cdn.shopify.com/s/files/1/0557/4269/3571/files/shutterstock_1859012482_1024x1024.jpg?v=1716389441",
+        "cook_time": 50,
+        "ingredients": [
+          "cho‘chqa go‘shti",
+          "sarimsoq",
+          "salat barglari",
+          "tuz",
+          "murch"
+        ],
+        "steps": [
+          "Go‘sht bo‘laklab kesiladi.",
+          "Grilda yoki tovanda pishiriladi.",
+          "Sarimsoq qo‘shib qovuriladi.",
+          "Salat bargiga o‘raladi.",
+          "Sous bilan tortiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 37,
+        "name": "Sundubu Jjigae",
+        "rating": 4.7,
+        "desc": "Yumshoq tofu sho‘rvasi.",
+        "cook": "Yoon Ara",
+        "publishing_date": "13 iyun, 2025",
+        "img": "https://www.koreanbapsang.com/wp-content/uploads/2012/02/DSC_0106-e1542090126361-500x435.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "yumshoq tofu",
+          "mol go‘shti",
+          "achchiq qalampir kukuni",
+          "sarimsoq",
+          "suv"
+        ],
+        "steps": [
+          "Go‘sht qozonda qovuriladi.",
+          "Sarimsoq va qalampir qo‘shiladi.",
+          "Suv quyilib qaynatiladi.",
+          "Tofu solinadi.",
+          "Bir necha daqiqa pishiriladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 38,
+        "name": "Kimbap",
+        "rating": 4.6,
+        "desc": "Guruch va sabzavotli rulon.",
+        "cook": "Seo Min-jae",
+        "publishing_date": "15 iyun, 2025",
+        "img": "https://iamalexlau.ca/wp-content/uploads/2025/03/AlexLau-00565.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "guruch",
+          "dengiz karam varaqasi",
+          "tuxum",
+          "sabzi",
+          "bodring"
+        ],
+        "steps": [
+          "Guruch pishirib sovutiladi.",
+          "Tuxumdan yupqa omlet qilinadi.",
+          "Sabzavotlar uzun kesiladi.",
+          "Hammasi karamga joylanadi.",
+          "Rulon qilib kesiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 39,
+        "name": "Galbi",
+        "rating": 4.9,
+        "desc": "Marinad qilingan mol qovurg‘asi.",
+        "cook": "Kang Woo-jin",
+        "publishing_date": "17 iyun, 2025",
+        "img": "https://www.beyondkimchee.com/wp-content/uploads/2024/02/galbi-korean-short-ribs-thumbnail-480x270.jpg",
+        "cook_time": 90,
+        "ingredients": [
+          "mol qovurg‘asi",
+          "soya sousi",
+          "sarimsoq",
+          "asal",
+          "piyoz"
+        ],
+        "steps": [
+          "Qovurg‘a marinad qilinadi.",
+          "Bir necha soat dam beriladi.",
+          "Grilda pishiriladi.",
+          "Vaqti-vaqti bilan aylantiriladi.",
+          "Issiq holda tortiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 40,
+        "name": "Ramyeon",
+        "rating": 4.5,
+        "desc": "Achchiq koreys lag‘mon sho‘rvasi.",
+        "cook": "Oh Ji-won",
+        "publishing_date": "19 iyun, 2025",
+        "img": "https://cookingwithawallflower.com/wp-content/uploads/2021/03/Korean-Style-Kimchi-Ramen-1.jpg",
+        "cook_time": 15,
+        "ingredients": [
+          "lag‘mon",
+          "suv",
+          "tuxum",
+          "yashil piyoz",
+          "achchiq ziravor"
+        ],
+        "steps": [
+          "Suv qozonda qaynaydi.",
+          "Lag‘mon solinadi.",
+          "Ziravor va tuxum qo‘shiladi.",
+          "5 daqiqa pishiriladi.",
+          "Yashil piyoz sepib tortiladi."
+        ],
+        "category": "korean"
+      },
+      {
+        "id": 41,
+        "name": "Sushi",
+        "rating": 4.9,
+        "desc": "Guruch va baliqli mashhur yapon taomi.",
+        "cook": "Tanaka Hiro",
+        "publishing_date": "1 iyul, 2025",
+        "img": "https://assets.tmecosys.cn/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/64EF898D-2EDD-4B47-A456-E6A7D137AC91/Derivates/00f76cac-64f6-4573-be4f-e604a7d99143.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "guruch",
+          "xom baliq",
+          "dengiz karam varaqasi",
+          "sirka",
+          "shakar"
+        ],
+        "steps": [
+          "Guruch yuvilib qaynatiladi.",
+          "Sirka va shakar bilan aralashtiriladi.",
+          "Dengiz karami ustiga guruch yoyiladi.",
+          "Ustiga baliq qo‘yiladi.",
+          "Rulon qilib kesiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 42,
+        "name": "Ramen",
+        "rating": 4.8,
+        "desc": "Bulyonli yapon lag‘mon sho‘rvasi.",
+        "cook": "Sato Ken",
+        "publishing_date": "3 iyul, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuaIe7DCiDB-Luf7KAyNMW1QJ4KpM_H40PA&s",
+        "cook_time": 45,
+        "ingredients": [
+          "lag‘mon",
+          "tovuq bulyoni",
+          "tuxum",
+          "soya sousi",
+          "yashil piyoz"
+        ],
+        "steps": [
+          "Bulyon qozonda qaynaydi.",
+          "Lag‘mon solinib pishiriladi.",
+          "Soya sousi qo‘shiladi.",
+          "Tuxum qaynatib bo‘laklanadi.",
+          "Yashil piyoz sepib tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 43,
+        "name": "Tempura",
+        "rating": 4.7,
+        "desc": "Qarsildoq qovurilgan sabzavot va dengiz mahsulotlari.",
+        "cook": "Nakamura Yui",
+        "publishing_date": "5 iyul, 2025",
+        "img": "https://img.taste.com.au/ZT9GGty1/taste/2016/11/tempura-49031-1.jpeg",
+        "cook_time": 30,
+        "ingredients": [
+          "qisqichbaqa",
+          "un",
+          "tuxum",
+          "suv",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Un, tuxum va suvdan suyuq xamir qilinadi.",
+          "Qisqichbaqa xamirga botiriladi.",
+          "Qizigan yog‘da qovuriladi.",
+          "Oltinrang bo‘lgach olinadi.",
+          "Sous bilan tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 44,
+        "name": "Takoyaki",
+        "rating": 4.6,
+        "desc": "Ahtapotli yapon sharikchalari.",
+        "cook": "Kobayashi Ren",
+        "publishing_date": "7 iyul, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-7ewYQebQpfpwSEazwUVo3bsT7qvakAiAA&s",
+        "cook_time": 35,
+        "ingredients": [
+          "ahtapot go‘shti",
+          "un",
+          "tuxum",
+          "yashil piyoz",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Un va tuxumdan xamir qilinadi.",
+          "Qolipga xamir quyiladi.",
+          "Ahtapot va piyoz solinadi.",
+          "Shar shaklida aylantiriladi.",
+          "Qizargach tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 45,
+        "name": "Onigiri",
+        "rating": 4.5,
+        "desc": "Ichlikli guruch sharchalari.",
+        "cook": "Yamamoto Aoi",
+        "publishing_date": "9 iyul, 2025",
+        "img": "https://www.allrecipes.com/thmb/RFpigljvRaJmCKYloZ9t2p3i-VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140422-onigiri-japanese-rice-balls-ddmfs-Beauty-3x4-1-aa650c90910247d086e22c57b8402367.jpg",
+        "cook_time": 20,
+        "ingredients": [
+          "guruch",
+          "tuna baliq",
+          "mayonez",
+          "tuz",
+          "dengiz karam varaqasi"
+        ],
+        "steps": [
+          "Guruch pishirib sovutiladi.",
+          "Tuna va mayonez aralashtiriladi.",
+          "Guruch ichiga ichlik solinadi.",
+          "Uchburchak shakl beriladi.",
+          "Karamga o‘rab tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 46,
+        "name": "Miso Soup",
+        "rating": 4.6,
+        "desc": "Yengil va foydali sho‘rva.",
+        "cook": "Ito Haru",
+        "publishing_date": "11 iyul, 2025",
+        "img": "https://www.allrecipes.com/thmb/qWs-AL8XSiz9VxWQ1ip-56h1DRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13107-miso-soup-PICS-Beauty-4x3-d955924c7a7b4e19a17f8cb7473cd052.jpg",
+        "cook_time": 15,
+        "ingredients": [
+          "miso pastasi",
+          "suv",
+          "tofu",
+          "dengiz karam",
+          "yashil piyoz"
+        ],
+        "steps": [
+          "Suv qozonda qaynaydi.",
+          "Miso pastasi eritiladi.",
+          "Tofu va karam solinadi.",
+          "Bir necha daqiqa pishiriladi.",
+          "Yashil piyoz sepib tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 47,
+        "name": "Teriyaki Chicken",
+        "rating": 4.8,
+        "desc": "Shirin sousli tovuq go‘shti.",
+        "cook": "Fujita Sora",
+        "publishing_date": "13 iyul, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sHJnKgexlds7L7a4aA1bgg38X63pTG39mA&s",
+        "cook_time": 40,
+        "ingredients": [
+          "tovuq go‘shti",
+          "soya sousi",
+          "asal",
+          "sarimsoq",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Tovuq bo‘laklanadi.",
+          "Yog‘da qovuriladi.",
+          "Soya sousi va asal qo‘shiladi.",
+          "Quyuqlashguncha pishiriladi.",
+          "Guruch bilan tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 48,
+        "name": "Okonomiyaki",
+        "rating": 4.7,
+        "desc": "Sabzavotli yapon quymog‘i.",
+        "cook": "Mori Yuka",
+        "publishing_date": "15 iyul, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTxqz6KF1CX-3nNw0z6oioyvscnHEeWK1Hw&s",
+        "cook_time": 35,
+        "ingredients": [
+          "karam",
+          "un",
+          "tuxum",
+          "suv",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Karam mayda to‘g‘raladi.",
+          "Un va tuxum bilan aralashtiriladi.",
+          "Tovaga quyilib pishiriladi.",
+          "Ikki tomoni qizartiriladi.",
+          "Sous bilan tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 49,
+        "name": "Udon",
+        "rating": 4.6,
+        "desc": "Qalin lag‘monli sho‘rva.",
+        "cook": "Kato Riku",
+        "publishing_date": "17 iyul, 2025",
+        "img": "https://tarasmulticulturaltable.com/wp-content/uploads/2017/12/Niku-Udon-Japanese-Beef-Udon-3-of-5.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "udon lag‘moni",
+          "suv",
+          "soya sousi",
+          "tofu",
+          "yashil piyoz"
+        ],
+        "steps": [
+          "Suv qaynaydi.",
+          "Lag‘mon solinadi.",
+          "Soya sousi qo‘shiladi.",
+          "Tofu solinadi.",
+          "Yashil piyoz sepib tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 50,
+        "name": "Mochi",
+        "rating": 4.5,
+        "desc": "Shirin guruchdan tayyorlangan desert.",
+        "cook": "Suzuki Emi",
+        "publishing_date": "19 iyul, 2025",
+        "img": "https://www.giallozafferano.com/images/343-34340/mochi_1200x800.jpg",
+        "cook_time": 50,
+        "ingredients": [
+          "shirin guruch uni",
+          "shakar",
+          "suv",
+          "kraxmal",
+          "qizil loviya pastasi"
+        ],
+        "steps": [
+          "Un, shakar va suv aralashtiriladi.",
+          "Bug‘da pishiriladi.",
+          "Xamir sovutiladi.",
+          "Ichiga loviya pastasi solinadi.",
+          "Sharcha qilib tortiladi."
+        ],
+        "category": "japanese"
+      },
+      {
+        "id": 51,
+        "name": "Hamburger",
+        "rating": 4.9,
+        "desc": "Go‘shtli kotletli klassik burger.",
+        "cook": "Johnson Mike",
+        "publishing_date": "1 avgust, 2025",
+        "img": "https://assets.epicurious.com/photos/57c5c6d9cf9e9ad43de2d96e/16:9/w_1280,c_limit/the-ultimate-hamburger.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "mol go‘shti qiymasi",
+          "burger noni",
+          "pishloq",
+          "pomidor",
+          "salat bargi"
+        ],
+        "steps": [
+          "Qiymadan kotlet shakllantiriladi.",
+          "Tovada yoki grilda qovuriladi.",
+          "Non ikkiga bo‘linib qizdiriladi.",
+          "Ichiga kotlet va sabzavot solinadi.",
+          "Yopib issiq holda tortiladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 52,
+        "name": "Hot Dog",
+        "rating": 4.6,
+        "desc": "Kolbasa va nonli tez tayyor taom.",
+        "cook": "Smith Alex",
+        "publishing_date": "3 avgust, 2025",
+        "img": "https://www.foodandwine.com/thmb/RKXMQtYD_qZRYEVnOXwQ--2fY4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hot-dog-melts-FT-RECIPE0525-469242c72f084f7584eae18b46d3a8ba.jpg",
+        "cook_time": 15,
+        "ingredients": [
+          "kolbasa",
+          "hot dog noni",
+          "xantal",
+          "ketchup",
+          "piyoz"
+        ],
+        "steps": [
+          "Kolbasa qaynatiladi yoki qovuriladi.",
+          "Non qizdiriladi.",
+          "Kolbasa non orasiga joylanadi.",
+          "Ustiga souslar quyiladi.",
+          "Piyoz sepib tortiladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 53,
+        "name": "Fried Chicken",
+        "rating": 4.8,
+        "desc": "Qarsildoq qovurilgan tovuq.",
+        "cook": "Brown Kevin",
+        "publishing_date": "5 avgust, 2025",
+        "img": "https://cdn.shopify.com/s/files/1/0173/8181/8422/files/20250701141944-fried-20chicken.jpg?v=1751379586&width=1600&height=900",
+        "cook_time": 45,
+        "ingredients": [
+          "tovuq bo‘laklari",
+          "un",
+          "tuxum",
+          "tuz",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Tovuq tuzlanadi.",
+          "Tuxumga botiriladi.",
+          "Unga bulg‘anadi.",
+          "Qizigan yog‘da qovuriladi.",
+          "Oltinrang bo‘lgach tortiladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 54,
+        "name": "Mac and Cheese",
+        "rating": 4.7,
+        "desc": "Pishloqli makaron.",
+        "cook": "Wilson Emma",
+        "publishing_date": "7 avgust, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYs6EDBMfh_87XxxtAiVOXsdzBWjZLaiqn5Q&s",
+        "cook_time": 35,
+        "ingredients": [
+          "makaron",
+          "sut",
+          "pishloq",
+          "sariyog‘",
+          "tuz"
+        ],
+        "steps": [
+          "Makaron qaynatiladi.",
+          "Sariyog‘ eritiladi.",
+          "Sut va pishloq qo‘shiladi.",
+          "Sous tayyorlanadi.",
+          "Makaron bilan aralashtiriladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 55,
+        "name": "BBQ Ribs",
+        "rating": 4.9,
+        "desc": "Sousli mol qovurg‘asi.",
+        "cook": "Taylor James",
+        "publishing_date": "9 avgust, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCipy1tgpLeWOrJgd5KZnH9SJWQ2_731BRLw&s",
+        "cook_time": 120,
+        "ingredients": [
+          "mol qovurg‘asi",
+          "barbekyu sousi",
+          "sarimsoq",
+          "tuz",
+          "murch"
+        ],
+        "steps": [
+          "Qovurg‘a tuz va murch bilan ishqalanadi.",
+          "Pechda sekin pishiriladi.",
+          "Vaqti-vaqti bilan sous surtiladi.",
+          "Yumshaguncha pishiriladi.",
+          "Bo‘laklab tortiladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 56,
+        "name": "Pancakes",
+        "rating": 4.6,
+        "desc": "Nonushta uchun shirin quymoq.",
+        "cook": "Miller Olivia",
+        "publishing_date": "11 avgust, 2025",
+        "img": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/fluffyamericanpancak_74828_16x9.jpg",
+        "cook_time": 25,
+        "ingredients": [
+          "un",
+          "sut",
+          "tuxum",
+          "shakar",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Un, sut va tuxum aralashtiriladi.",
+          "Shakar qo‘shiladi.",
+          "Tovada sariyog‘ eritiladi.",
+          "Xamir quyilib pishiriladi.",
+          "Ikki tomoni qizartiriladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 57,
+        "name": "Apple Pie",
+        "rating": 4.8,
+        "desc": "Olmali shirin pirog.",
+        "cook": "Anderson Lily",
+        "publishing_date": "13 avgust, 2025",
+        "img": "https://www.inspiredtaste.net/wp-content/uploads/2019/11/Homemade-Apple-Pie-From-Scratch-1200.jpg",
+        "cook_time": 70,
+        "ingredients": [
+          "olma",
+          "un",
+          "shakar",
+          "sariyog‘",
+          "dolchin"
+        ],
+        "steps": [
+          "Olmalar to‘g‘raladi.",
+          "Shakar va dolchin qo‘shiladi.",
+          "Xamir yoyiladi.",
+          "Ichlik solinadi.",
+          "Pechda pishiriladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 58,
+        "name": "Clam Chowder",
+        "rating": 4.7,
+        "desc": "Qaymoqli dengiz sho‘rvasi.",
+        "cook": "Harris Noah",
+        "publishing_date": "15 avgust, 2025",
+        "img": "https://bachans.com/cdn/shop/articles/san_francisco_clam_chowder_original_2025_label.png?v=1759874703",
+        "cook_time": 60,
+        "ingredients": [
+          "midiyalar",
+          "kartoshka",
+          "sut",
+          "piyoz",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Piyoz sariyog‘da qovuriladi.",
+          "Kartoshka qo‘shiladi.",
+          "Sut quyiladi.",
+          "Midiyalar solinadi.",
+          "Yumshaguncha pishiriladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 59,
+        "name": "Steak",
+        "rating": 5.0,
+        "desc": "Qizartirilgan mol go‘shti bo‘lagi.",
+        "cook": "Walker Ethan",
+        "publishing_date": "17 avgust, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpOdoOSoYXqAOuHyCE7ucma7xp1qlEYtr1g&s",
+        "cook_time": 25,
+        "ingredients": [
+          "mol go‘shti bo‘lagi",
+          "tuz",
+          "murch",
+          "sariyog‘",
+          "sarimsoq"
+        ],
+        "steps": [
+          "Go‘sht tuz va murchlanadi.",
+          "Qizigan tovaga solinadi.",
+          "Ikki tomoni qizartiriladi.",
+          "Sariyog‘ va sarimsoq qo‘shiladi.",
+          "Dam berib tortiladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 60,
+        "name": "Caesar Salad",
+        "rating": 4.6,
+        "desc": "Tovuq va sousli salat.",
+        "cook": "Clark Sophia",
+        "publishing_date": "19 avgust, 2025",
+        "img": "https://www.maggi.co.uk/sites/default/files/srh_recipes/3ee1954a36009dd59be2d362a2a44cf6.jpg",
+        "cook_time": 20,
+        "ingredients": [
+          "tovuq go‘shti",
+          "salat bargi",
+          "pishloq",
+          "non kubiklari",
+          "sous"
+        ],
+        "steps": [
+          "Tovuq qovuriladi.",
+          "Salat barglari yuviladi.",
+          "Pishloq qirg‘ichdan chiqariladi.",
+          "Hammasi aralashtiriladi.",
+          "Sous quyib tortiladi."
+        ],
+        "category": "american"
+      },
+      {
+        "id": 61,
+        "name": "Butter Chicken",
+        "rating": 5.0,
+        "desc": "Qaymoqli va mazali tovuq taomi.",
+        "cook": "Sharma Rahul",
+        "publishing_date": "1 sentabr, 2025",
+        "img": "https://insanelygoodrecipes.com/wp-content/uploads/2024/09/Indian-butter-chicken-featured.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "tovuq go‘shti",
+          "pomidor pastasi",
+          "sariyog‘",
+          "qaymoq",
+          "garam masala"
+        ],
+        "steps": [
+          "Tovuq bo‘laklarga kesiladi.",
+          "Sariyog‘da qovuriladi.",
+          "Pomidor pastasi qo‘shiladi.",
+          "Ziravor va qaymoq solinadi.",
+          "Quyuqlashguncha dimlanadi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 62,
+        "name": "Chicken Tikka",
+        "rating": 4.8,
+        "desc": "Grilda pishirilgan marinadli tovuq.",
+        "cook": "Khan Imran",
+        "publishing_date": "3 sentabr, 2025",
+        "img": "https://www.thespicehouse.com/cdn/shop/articles/Chicken_Tikka_Masala_1200x1200.jpg?v=1606845941",
+        "cook_time": 50,
+        "ingredients": [
+          "tovuq go‘shti",
+          "yogurt",
+          "sarimsoq",
+          "zanjabil",
+          "garam masala"
+        ],
+        "steps": [
+          "Tovuq marinad qilinadi.",
+          "Bir necha soat dam beriladi.",
+          "Shamplarga teriladi.",
+          "Grilda pishiriladi.",
+          "Issiq holda tortiladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 63,
+        "name": "Biryani",
+        "rating": 4.9,
+        "desc": "Ziravorli guruch va go‘sht taomi.",
+        "cook": "Patel Arjun",
+        "publishing_date": "5 sentabr, 2025",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+        "cook_time": 90,
+        "ingredients": [
+          "guruch",
+          "mol go‘shti",
+          "piyoz",
+          "zanjabil",
+          "zira"
+        ],
+        "steps": [
+          "Guruch yarim pishiriladi.",
+          "Go‘sht ziravor bilan qovuriladi.",
+          "Piyoz qo‘shiladi.",
+          "Qatlam qilib joylanadi.",
+          "Dimlab pishiriladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 64,
+        "name": "Samosa",
+        "rating": 4.7,
+        "desc": "Kartoshkali qovurilgan uchburchak.",
+        "cook": "Gupta Neha",
+        "publishing_date": "7 sentabr, 2025",
+        "img": "https://www.seriouseats.com/thmb/4HxqFS6SHsh1XBCXWWHbsyrGOxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210909-SAMOSAS-ANDREWJANJIGIAN-86-ca872c2eae8e4e7eb4e7b47cfad8715e.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "kartoshka",
+          "piyoz",
+          "un",
+          "zira",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Kartoshka qaynatilib eziladi.",
+          "Piyoz va zira qo‘shiladi.",
+          "Xamir yoyiladi.",
+          "Ichlik solib yopiladi.",
+          "Yog‘da qovuriladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 65,
+        "name": "Palak Paneer",
+        "rating": 4.8,
+        "desc": "Ismaloqli pishloq taomi.",
+        "cook": "Mehta Riya",
+        "publishing_date": "9 sentabr, 2025",
+        "img": "https://www.yummytummyaarthi.com/wp-content/uploads/2021/11/palak-paneer-1.jpg",
+        "cook_time": 50,
+        "ingredients": [
+          "ismaloq",
+          "paneer pishlog‘i",
+          "sarimsoq",
+          "piyoz",
+          "zira"
+        ],
+        "steps": [
+          "Ismaloq qaynatib eziladi.",
+          "Piyoz va sarimsoq qovuriladi.",
+          "Ismaloq qo‘shiladi.",
+          "Paneer solinadi.",
+          "Bir necha daqiqa dimlanadi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 66,
+        "name": "Dal",
+        "rating": 4.6,
+        "desc": "Qaynatilgan yasmiq sho‘rvasi.",
+        "cook": "Singh Aman",
+        "publishing_date": "11 sentabr, 2025",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/02/dal-fry.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "yasmiq",
+          "sarimsoq",
+          "piyoz",
+          "zira",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Yasmiq qaynatiladi.",
+          "Piyoz va sarimsoq qovuriladi.",
+          "Zira qo‘shiladi.",
+          "Yasmiq solinadi.",
+          "Birga qaynatiladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 67,
+        "name": "Naan",
+        "rating": 4.7,
+        "desc": "Yumshoq hind noni.",
+        "cook": "Verma Kunal",
+        "publishing_date": "13 sentabr, 2025",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/02/dal-fry.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "un",
+          "yogurt",
+          "suv",
+          "tuz",
+          "xamirturush"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Dam beriladi.",
+          "Bo‘laklanadi.",
+          "Yoyib pishiriladi.",
+          "Sariyog‘ surtiladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 68,
+        "name": "Chole",
+        "rating": 4.8,
+        "desc": "Nohatli achchiq taom.",
+        "cook": "Bansal Pooja",
+        "publishing_date": "15 sentabr, 2025",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chole_Bhature_from_Nagpur.JPG",
+        "cook_time": 60,
+        "ingredients": [
+          "no‘xat",
+          "piyoz",
+          "pomidor",
+          "zira",
+          "garam masala"
+        ],
+        "steps": [
+          "No‘xat qaynatiladi.",
+          "Piyoz qovuriladi.",
+          "Pomidor qo‘shiladi.",
+          "Ziravor solinadi.",
+          "No‘xat bilan dimlanadi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 69,
+        "name": "Aloo Gobi",
+        "rating": 4.6,
+        "desc": "Kartoshka va gulkaram taomi.",
+        "cook": "Joshi Rakesh",
+        "publishing_date": "17 sentabr, 2025",
+        "img": "https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-videoSixteenByNineJumbo1600.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "kartoshka",
+          "gulkaram",
+          "piyoz",
+          "zira",
+          "zanjabil"
+        ],
+        "steps": [
+          "Sabzavotlar to‘g‘raladi.",
+          "Piyoz qovuriladi.",
+          "Zanjabil va zira qo‘shiladi.",
+          "Sabzavot solinadi.",
+          "Yumshaguncha pishiriladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 70,
+        "name": "Gulab Jamun",
+        "rating": 4.9,
+        "desc": "Shirin siropdagi desert.",
+        "cook": "Malhotra Anaya",
+        "publishing_date": "19 sentabr, 2025",
+        "img": "https://www.cadburydessertscorner.com/hubfs/dc-website-2022/articles/soft-gulab-jamun-recipe-for-raksha-bandhan-from-dough-to-syrup-all-you-need-to-know/soft-gulab-jamun-recipe-for-raksha-bandhan-from-dough-to-syrup-all-you-need-to-know.webp",
+        "cook_time": 50,
+        "ingredients": [
+          "sut kukuni",
+          "un",
+          "shakar",
+          "suv",
+          "kardamon"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Sharchalar qilinadi.",
+          "Yog‘da qovuriladi.",
+          "Shakar siropi tayyorlanadi.",
+          "Siropga solib tortiladi."
+        ],
+        "category": "indian"
+      },
+      {
+        "id": 71,
+        "name": "Koshari",
+        "rating": 4.8,
+        "desc": "Guruch, makaron va yasmiqli milliy taom.",
+        "cook": "Hassan Ali",
+        "publishing_date": "1 oktyabr, 2025",
+        "img": "https://montsia.es/images/recipes/koshari-egipcio-1.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "guruch",
+          "makaron",
+          "yasmiq",
+          "piyoz",
+          "pomidor sousi"
+        ],
+        "steps": [
+          "Guruch va yasmiq qaynatiladi.",
+          "Makaron alohida pishiriladi.",
+          "Piyoz qovuriladi.",
+          "Pomidor sousi tayyorlanadi.",
+          "Hammasi aralashtirib tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 72,
+        "name": "Ful Medames",
+        "rating": 4.7,
+        "desc": "Ezilgan loviyadan tayyorlangan nonushta.",
+        "cook": "Mahmoud Tarek",
+        "publishing_date": "3 oktyabr, 2025",
+        "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKIW7MTJRAI6ZE4Q5LRED5GIWE.jpg&w=1100",
+        "cook_time": 45,
+        "ingredients": [
+          "loviya",
+          "sarimsoq",
+          "limon sharbati",
+          "zaytun moyi",
+          "tuz"
+        ],
+        "steps": [
+          "Loviya yumshaguncha qaynatiladi.",
+          "Ezib pyure qilinadi.",
+          "Sarimsoq qo‘shiladi.",
+          "Limon sharbati solinadi.",
+          "Zaytun moyi bilan tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 73,
+        "name": "Molokhia",
+        "rating": 4.6,
+        "desc": "Yashil bargli sho‘rva.",
+        "cook": "Nour El Din",
+        "publishing_date": "5 oktyabr, 2025",
+        "img": "https://cookingwithjade.com/wp-content/uploads/2024/01/Chef-Jade_-VEGAN-EGYPTIAN-MOLOKHIA-1.webp",
+        "cook_time": 50,
+        "ingredients": [
+          "molokhiya bargi",
+          "tovuq bulyoni",
+          "sarimsoq",
+          "koriander",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Bulyon qaynatiladi.",
+          "Molokhiya qo‘shiladi.",
+          "Sarimsoq va koriander qovuriladi.",
+          "Sho‘rvaga solinadi.",
+          "Bir necha daqiqa dimlanadi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 74,
+        "name": "Ta'ameya",
+        "rating": 4.9,
+        "desc": "Misr falafeli.",
+        "cook": "Youssef Karim",
+        "publishing_date": "7 oktyabr, 2025",
+        "img": "https://www.tastingtable.com/img/gallery/the-real-difference-between-taameya-and-falafel/intro-1655751214.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "loviya",
+          "piyoz",
+          "sarimsoq",
+          "zira",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Loviya namlanadi.",
+          "Piyoz va sarimsoq qo‘shiladi.",
+          "Ziravor solinadi.",
+          "Sharchalar qilinadi.",
+          "Yog‘da qovuriladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 75,
+        "name": "Hawawshi",
+        "rating": 4.7,
+        "desc": "Go‘shtli non.",
+        "cook": "Ibrahim Nader",
+        "publishing_date": "9 oktyabr, 2025",
+        "img": "https://tarasmulticulturaltable.com/wp-content/uploads/2021/09/Hawawshi-Egyptian-Meat-Stuffed-Bread-3-of-3.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "mol go‘shti",
+          "pita non",
+          "piyoz",
+          "sarimsoq",
+          "zira"
+        ],
+        "steps": [
+          "Go‘sht ziravor bilan aralashtiriladi.",
+          "Piyoz va sarimsoq qo‘shiladi.",
+          "Non ichiga solinadi.",
+          "Duxovkada pishiriladi.",
+          "Issiq holda tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 76,
+        "name": "Mahshi",
+        "rating": 4.8,
+        "desc": "To‘ldirilgan sabzavotlar.",
+        "cook": "Salma Farid",
+        "publishing_date": "11 oktyabr, 2025",
+        "img": "https://amwhatieat.com/wp-content/uploads/2019/09/mahshi-e1568518288665.jpg",
+        "cook_time": 70,
+        "ingredients": [
+          "guruch",
+          "qovoq",
+          "uzum bargi",
+          "piyoz",
+          "pomidor sousi"
+        ],
+        "steps": [
+          "Guruch va piyoz aralashtiriladi.",
+          "Sabzavotlar tozalanadi.",
+          "Ichlik solinadi.",
+          "Qozonga teriladi.",
+          "Sous bilan dimlanadi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 77,
+        "name": "Fattah",
+        "rating": 4.9,
+        "desc": "Non, guruch va go‘shtli taom.",
+        "cook": "Omar Adel",
+        "publishing_date": "13 oktyabr, 2025",
+        "img": "https://thehappyfoodie.co.uk/wp-content/uploads/2021/08/together-egyptian-lamb-fattah-0bded7b1-0e1f-42e1-b74b-11f639115e08_s900x0_c600x349_l0x329.jpg",
+        "cook_time": 80,
+        "ingredients": [
+          "guruch",
+          "non",
+          "mol go‘shti",
+          "sarimsoq",
+          "sirka"
+        ],
+        "steps": [
+          "Go‘sht qaynatiladi.",
+          "Guruch pishiriladi.",
+          "Non qovuriladi.",
+          "Sarimsoq sousi tayyorlanadi.",
+          "Qatlam qilib tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 78,
+        "name": "Basbousa",
+        "rating": 4.8,
+        "desc": "Yorma asosidagi shirinlik.",
+        "cook": "Mona Samir",
+        "publishing_date": "15 oktyabr, 2025",
+        "img": "https://www.ruchikrandhap.com/wp-content/uploads/2014/12/CoconutBasbousa6-1.jpg",
+        "cook_time": 50,
+        "ingredients": [
+          "manniy yorma",
+          "shakar",
+          "yogurt",
+          "sariyog‘",
+          "kokos qirg‘ichi"
+        ],
+        "steps": [
+          "Masalliqlar aralashtiriladi.",
+          "Qolipga quyiladi.",
+          "Duxovkada pishiriladi.",
+          "Shakar siropi quyiladi.",
+          "Sovutilib tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 79,
+        "name": "Roz Bel Laban",
+        "rating": 4.6,
+        "desc": "Sutli guruch deserti.",
+        "cook": "Ahmed Fathy",
+        "publishing_date": "17 oktyabr, 2025",
+        "img": "https://www.fooddolls.com/wp-content/uploads/2023/03/roz-bil-laban13033-500x375.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "guruch",
+          "sut",
+          "shakar",
+          "vanilin",
+          "dolchin"
+        ],
+        "steps": [
+          "Guruch sutda qaynatiladi.",
+          "Shakar qo‘shiladi.",
+          "Vanilin solinadi.",
+          "Quyuqlashguncha pishiriladi.",
+          "Dolchin sepib tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 80,
+        "name": "Shawarma",
+        "rating": 5.0,
+        "desc": "Ziravorli go‘shtli sendvich.",
+        "cook": "Mostafa Reda",
+        "publishing_date": "19 oktyabr, 2025",
+        "img": "https://amazingfoodanddrink.com/wp-content/uploads/2024/09/el-17.jpg",
+        "cook_time": 55,
+        "ingredients": [
+          "tovuq go‘shti",
+          "pita non",
+          "sarimsoq",
+          "yogurt",
+          "zira"
+        ],
+        "steps": [
+          "Tovuq marinad qilinadi.",
+          "Tovada qovuriladi.",
+          "Sous tayyorlanadi.",
+          "Non ichiga solinadi.",
+          "O‘rab tortiladi."
+        ],
+        "category": "egyptian"
+      },
+      {
+        "id": 81,
+        "name": "Kabsa",
+        "rating": 5.0,
+        "desc": "Ziravorli guruch va go‘shtli milliy taom.",
+        "cook": "Abdullah Al-Faraj",
+        "publishing_date": "1 noyabr, 2025",
+        "img": "https://www.seriouseats.com/thmb/wmB1GTeI2uNTvncysaFfwWjdXgA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20251024-SEA-Kabsa-AmandaSuarez-25-a8abf1eb8a7c45c2a4ded29c0f8f19d3.jpg",
+        "cook_time": 90,
+        "ingredients": [
+          "guruch",
+          "tovuq go‘shti",
+          "piyoz",
+          "pomidor",
+          "zira"
+        ],
+        "steps": [
+          "Piyoz yog‘da qovuriladi.",
+          "Tovuq bo‘laklari qo‘shiladi.",
+          "Pomidor va ziravor solinadi.",
+          "Suv quyilib dimlanadi.",
+          "Guruch solib pishiriladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 82,
+        "name": "Jareesh",
+        "rating": 4.7,
+        "desc": "Bug‘doy asosidagi quyuq taom.",
+        "cook": "Fahad Al-Harbi",
+        "publishing_date": "5 noyabr, 2025",
+        "img": "https://images.arla.com/recordid/9A25A271-0E9F-49E1-A841AA6C11FC7A15/chicken-mandi.jpg?width=500&height=630&mode=max&format=webp",
+        "cook_time": 80,
+        "ingredients": [
+          "bug‘doy yormasi",
+          "tovuq go‘shti",
+          "piyoz",
+          "yogurt",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Bug‘doy yormasi qaynatiladi.",
+          "Tovuq alohida pishiriladi.",
+          "Piyoz qovuriladi.",
+          "Hammasi aralashtiriladi.",
+          "Yogurt bilan tortiladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 83,
+        "name": "Saleeg",
+        "rating": 4.8,
+        "desc": "Sutli guruch va tovuqli taom.",
+        "cook": "Nasser Al-Zahrani",
+        "publishing_date": "7 noyabr, 2025",
+        "img": "https://ik.imagekit.io/wez2loho68v/prod/recipes/main%20course/masala-chicken-saleeg.gif?tr=w-768,f-webp,q-90",
+        "cook_time": 75,
+        "ingredients": [
+          "guruch",
+          "tovuq go‘shti",
+          "sut",
+          "sarimsoq",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Tovuq qaynatiladi.",
+          "Guruch solinadi.",
+          "Sut quyiladi.",
+          "Sarimsoq qo‘shiladi.",
+          "Quyuqlashguncha pishiriladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 84,
+        "name": "Mutabbaq",
+        "rating": 4.9,
+        "desc": "Go‘shtli va tuxumli qatlama non.",
+        "cook": "Omar Al-Salem",
+        "publishing_date": "9 noyabr, 2025",
+        "img": "https://img.ananinja.com/media/ninja-catalog-42/restaurants/bctgox1nrvw2bas98coamcmebzdu/-1.jpg?w=3840&q=75",
+        "cook_time": 50,
+        "ingredients": [
+          "xamir",
+          "mol go‘shti",
+          "tuxum",
+          "piyoz",
+          "zira"
+        ],
+        "steps": [
+          "Go‘sht va piyoz qovuriladi.",
+          "Tuxum qo‘shiladi.",
+          "Xamir yoyiladi.",
+          "Ichlik solinadi.",
+          "Tovada pishiriladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 85,
+        "name": "Thareed",
+        "rating": 4.8,
+        "desc": "Sho‘rvaga botirilgan non va go‘sht.",
+        "cook": "Khalid Al-Mutairi",
+        "publishing_date": "11 noyabr, 2025",
+        "img": "https://img.ananinja.com/media/ninja-catalog-42/restaurants/5gbjm80cyyx77i4lb9vhd5b9ei2g/banner-48.png?w=3840&q=75",
+        "cook_time": 85,
+        "ingredients": [
+          "mol go‘shti",
+          "non",
+          "piyoz",
+          "pomidor",
+          "kartoshka"
+        ],
+        "steps": [
+          "Go‘sht qaynatiladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Sho‘rva tayyorlanadi.",
+          "Non ustiga quyiladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 86,
+        "name": "Samboosa",
+        "rating": 4.7,
+        "desc": "Go‘shtli qovurilgan pirojka.",
+        "cook": "Yasir Al-Ghamdi",
+        "publishing_date": "13 noyabr, 2025",
+        "img": "https://images.squarespace-cdn.com/content/v1/59779bc11e5b6c85f3cae024/ac09b086-ef96-4101-934e-0c2fd05dc90d/Bahrain+Samboosa-2.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "xamir",
+          "mol go‘shti",
+          "piyoz",
+          "murch",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Go‘sht va piyoz qovuriladi.",
+          "Ziravor solinadi.",
+          "Xamirga solinadi.",
+          "Uchburchak qilinadi.",
+          "Yog‘da qovuriladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 87,
+        "name": "Mandi",
+        "rating": 4.9,
+        "desc": "Yerda dimlab pishiriladigan guruch va go‘sht.",
+        "cook": "Saleh Al-Qahtani",
+        "publishing_date": "3 noyabr, 2025",
+        "img": "https://images.arla.com/recordid/9A25A271-0E9F-49E1-A841AA6C11FC7A15/chicken-mandi.jpg?width=500&height=630&mode=max&format=webp",
+        "cook_time": 120,
+        "ingredients": [
+          "guruch",
+          "qo‘y go‘shti",
+          "piyoz",
+          "kardamon",
+          "dolchin"
+        ],
+        "steps": [
+          "Go‘sht ziravor bilan aralashtiriladi.",
+          "Qozonga piyoz solinadi.",
+          "Go‘sht ustiga teriladi.",
+          "Suv quyilib dimlanadi.",
+          "Guruch solib pishiriladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 88,
+        "name": "Masoub",
+        "rating": 4.6,
+        "desc": "Bananli va nonli shirinlik.",
+        "cook": "Hamad Al-Otaibi",
+        "publishing_date": "15 noyabr, 2025",
+        "img": "https://images.arla.com/recordid/B508F47C-B933-4D78-A157B7DDF3D9AC66/royal-masoub.jpg",
+        "cook_time": 20,
+        "ingredients": [
+          "banan",
+          "non",
+          "asal",
+          "sariyog‘",
+          "qaymoq"
+        ],
+        "steps": [
+          "Banan eziladi.",
+          "Non bo‘laklanadi.",
+          "Asal qo‘shiladi.",
+          "Sariyog‘ solinadi.",
+          "Aralashtirib tortiladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 89,
+        "name": "Harees",
+        "rating": 4.8,
+        "desc": "Bug‘doy va go‘shtli quyuq taom.",
+        "cook": "Majed Al-Shammari",
+        "publishing_date": "17 noyabr, 2025",
+        "img": "https://www.tasteatlas.com/images/dishes/03df132180744560921a1b481675e559.jpg",
+        "cook_time": 100,
+        "ingredients": [
+          "bug‘doy",
+          "qo‘y go‘shti",
+          "suv",
+          "tuz",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Bug‘doy namlanadi.",
+          "Go‘sht bilan qaynatiladi.",
+          "Ezib aralashtiriladi.",
+          "Tuz qo‘shiladi.",
+          "Sariyog‘ bilan tortiladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 90,
+        "name": "Luqaimat",
+        "rating": 4.9,
+        "desc": "Shakar siropiga botirilgan shirin sharchalar.",
+        "cook": "Rania Al-Hassan",
+        "publishing_date": "19 noyabr, 2025",
+        "img": "https://originz.co/uploadfile/images/Luqaimat_Image.jpg",
+        "cook_time": 35,
+        "ingredients": [
+          "un",
+          "xamirturush",
+          "shakar",
+          "suv",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Dam beriladi.",
+          "Sharchalar qilinadi.",
+          "Yog‘da qovuriladi.",
+          "Siropga botiriladi."
+        ],
+        "category": "saudi"
+      },
+      {
+        "id": 91,
+        "name": "Borsh",
+        "rating": 4.9,
+        "desc": "Lavlagi va go‘shtli sho‘rva.",
+        "cook": "Ivan Petrov",
+        "publishing_date": "1 dekabr, 2025",
+        "img": "https://totalbodylab.com/wp-content/uploads/2020/08/Screenshot_2020-08-27-Recipes2.png",
+        "cook_time": 90,
+        "ingredients": [
+          "mol go‘shti",
+          "lavlagi",
+          "kartoshka",
+          "sabzi",
+          "piyoz"
+        ],
+        "steps": [
+          "Go‘sht qaynatiladi.",
+          "Sabzavotlar to‘g‘raladi.",
+          "Lavlagi qovuriladi.",
+          "Hammasi qozonga solinadi.",
+          "Dimlab pishiriladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 92,
+        "name": "Pelmeni",
+        "rating": 5.0,
+        "desc": "Go‘shtli chuchvara.",
+        "cook": "Anna Smirnova",
+        "publishing_date": "3 dekabr, 2025",
+        "img": "https://delishglobe.com/wp-content/uploads/2024/12/Pelmeni-Meat-Dumplings.png",
+        "cook_time": 60,
+        "ingredients": [
+          "un",
+          "mol go‘shti",
+          "piyoz",
+          "tuxum",
+          "tuz"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Go‘sht va piyoz aralashtiriladi.",
+          "Ichlik solinadi.",
+          "Chuchvaralar yasaladi.",
+          "Qaynoq suvda pishiriladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 93,
+        "name": "Beef Stroganoff",
+        "rating": 4.8,
+        "desc": "Qaymoqli mol go‘shti.",
+        "cook": "Sergey Ivanov",
+        "publishing_date": "5 dekabr, 2025",
+        "img": "https://www.curiouscuisiniere.com/wp-content/uploads/2017/04/Russian-Stroganoff-1487.450.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "mol go‘shti",
+          "piyoz",
+          "qaymoq",
+          "sariyog‘",
+          "murch"
+        ],
+        "steps": [
+          "Go‘sht tasma qilib kesiladi.",
+          "Sariyog‘da qovuriladi.",
+          "Piyoz qo‘shiladi.",
+          "Qaymoq solinadi.",
+          "Bir necha daqiqa dimlanadi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 94,
+        "name": "Blini",
+        "rating": 4.7,
+        "desc": "Yupqa krep nonlari.",
+        "cook": "Olga Kuznetsova",
+        "publishing_date": "7 dekabr, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpi5EfVNr55q2pYs2KJ-I_nv63BBTM2Tte4Q&s",
+        "cook_time": 30,
+        "ingredients": [
+          "un",
+          "sut",
+          "tuxum",
+          "shakar",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Xamir aralashtiriladi.",
+          "Tovaga quyiladi.",
+          "Ikkala tomoni pishiriladi.",
+          "Yog‘ surtiladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 95,
+        "name": "Olivye salati",
+        "rating": 4.9,
+        "desc": "Mashhur rus salati.",
+        "cook": "Dmitry Volkov",
+        "publishing_date": "9 dekabr, 2025",
+        "img": "https://www.alyonascooking.com/wp-content/uploads/2015/11/olivye-default-_Fotor-eeee.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "kartoshka",
+          "tuxum",
+          "kolbasa",
+          "bodring",
+          "mayonez"
+        ],
+        "steps": [
+          "Sabzavotlar qaynatiladi.",
+          "Mayda to‘g‘raladi.",
+          "Kolbasa qo‘shiladi.",
+          "Mayonez solinadi.",
+          "Aralashtirib tortiladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 96,
+        "name": "Shchi",
+        "rating": 4.6,
+        "desc": "Karamli sho‘rva.",
+        "cook": "Nikolay Orlov",
+        "publishing_date": "11 dekabr, 2025",
+        "img": "https://delishglobe.com/wp-content/uploads/2024/12/Shchi-Cabbage-Soup.png",
+        "cook_time": 75,
+        "ingredients": [
+          "mol go‘shti",
+          "karam",
+          "kartoshka",
+          "piyoz",
+          "sabzi"
+        ],
+        "steps": [
+          "Go‘sht qaynatiladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Karam solinadi.",
+          "Dimlab pishiriladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 97,
+        "name": "Piroshki",
+        "rating": 4.8,
+        "desc": "Ichli qovurilgan non.",
+        "cook": "Elena Morozova",
+        "publishing_date": "13 dekabr, 2025",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ166KPhD94JMBkEcVM17ppyMQnLi5_o_RuA&s",
+        "cook_time": 50,
+        "ingredients": [
+          "un",
+          "kartoshka",
+          "piyoz",
+          "xamirturush",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Ichlik tayyorlanadi.",
+          "Xamirga solinadi.",
+          "Yopiladi.",
+          "Yog‘da qovuriladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 98,
+        "name": "Vareniki",
+        "rating": 4.7,
+        "desc": "Ichli qaynatma chuchvara.",
+        "cook": "Tatiana Lebedeva",
+        "publishing_date": "15 dekabr, 2025",
+        "img": "https://cdn.momsdish.com/wp-content/uploads/2024/07/Cherry-Vareniki-010-scaled.jpg",
+        "cook_time": 55,
+        "ingredients": [
+          "un",
+          "tvorog",
+          "tuxum",
+          "shakar",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Ichlik tayyorlanadi.",
+          "Varenikilar yasaladi.",
+          "Qaynoq suvda pishiriladi.",
+          "Yog‘ bilan tortiladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 99,
+        "name": "Solyanka",
+        "rating": 4.8,
+        "desc": "Bir nechta go‘shtli sho‘rva.",
+        "cook": "Alexey Romanov",
+        "publishing_date": "17 dekabr, 2025",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Soljanka_food_05.jpg",
+        "cook_time": 85,
+        "ingredients": [
+          "mol go‘shti",
+          "kolbasa",
+          "bodring",
+          "piyoz",
+          "limon"
+        ],
+        "steps": [
+          "Go‘sht qaynatiladi.",
+          "Kolbasa qovuriladi.",
+          "Bodring qo‘shiladi.",
+          "Hammasi aralashtiriladi.",
+          "Limon bilan tortiladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 100,
+        "name": "Medovik",
+        "rating": 5.0,
+        "desc": "Asalli tort.",
+        "cook": "Maria Sokolova",
+        "publishing_date": "19 dekabr, 2025",
+        "img": "https://delishglobe.com/wp-content/uploads/2025/07/Medovik-Honey-Cake.png",
+        "cook_time": 120,
+        "ingredients": [
+          "asal",
+          "un",
+          "tuxum",
+          "shakar",
+          "qaymoq"
+        ],
+        "steps": [
+          "Asal va tuxum qizdiriladi.",
+          "Xamir qoriladi.",
+          "Qavatlar pishiriladi.",
+          "Krem surtiladi.",
+          "Tort yig‘iladi."
+        ],
+        "category": "russian"
+      },
+      {
+        "id": 101,
+        "name": "Pizza Margherita",
+        "rating": 5.0,
+        "desc": "Pomidor va pishloqli klassik pizza.",
+        "cook": "Marco Rossi",
+        "publishing_date": "1 yanvar, 2026",
+        "img": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg",
+        "cook_time": 40,
+        "ingredients": [
+          "xamir",
+          "pomidor sousi",
+          "mozzarella pishlog‘i",
+          "rayhon",
+          "zaytun moyi"
+        ],
+        "steps": [
+          "Xamir yoyiladi.",
+          "Sous surtiladi.",
+          "Pishloq sepiladi.",
+          "Rayhon qo‘shiladi.",
+          "Duxovkada pishiriladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 102,
+        "name": "Spaghetti Carbonara",
+        "rating": 4.9,
+        "desc": "Tuxum va pishloqli makaron.",
+        "cook": "Luca Bianchi",
+        "publishing_date": "3 yanvar, 2026",
+        "img": "https://images.services.kitchenstories.io/6glN_4JhpVS9aUiBS7JnGsuDULA=/3840x0/filters:quality(80)/images.kitchenstories.io/wagtailOriginalImages/R2568-photo-final-_0.jpg",
+        "cook_time": 30,
+        "ingredients": [
+          "spagetti",
+          "tuxum",
+          "parmezan pishlog‘i",
+          "bekon",
+          "murch"
+        ],
+        "steps": [
+          "Spagetti qaynatiladi.",
+          "Bekon qovuriladi.",
+          "Tuxum va pishloq aralashtiriladi.",
+          "Spagetti qo‘shiladi.",
+          "Aralashtirib tortiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 103,
+        "name": "Lasagna",
+        "rating": 5.0,
+        "desc": "Qavatli go‘shtli makaron.",
+        "cook": "Giulia Ferri",
+        "publishing_date": "5 yanvar, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlr2IMn77nBkK7YOOi1ihas3lEdw6vAf3DCg&s",
+        "cook_time": 90,
+        "ingredients": [
+          "lasagna varag‘i",
+          "mol go‘shti",
+          "pomidor sousi",
+          "pishloq",
+          "piyoz"
+        ],
+        "steps": [
+          "Go‘sht va piyoz qovuriladi.",
+          "Pomidor sousi qo‘shiladi.",
+          "Qavatlab teriladi.",
+          "Pishloq sepiladi.",
+          "Duxovkada pishiriladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 104,
+        "name": "Risotto",
+        "rating": 4.8,
+        "desc": "Qaymoqli guruchli taom.",
+        "cook": "Andrea Conti",
+        "publishing_date": "7 yanvar, 2026",
+        "img": "https://www.allrecipes.com/thmb/9d8yV77PRL3wbRwcpAIxtZPdi5Q=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-DDMFS-4x3-a8a80a8deb064c6a8f15452b808a0258.jpg",
+        "cook_time": 45,
+        "ingredients": [
+          "guruch",
+          "tovuq bulyoni",
+          "piyoz",
+          "parmezan pishlog‘i",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Piyoz qovuriladi.",
+          "Guruch qo‘shiladi.",
+          "Bulyon solinadi.",
+          "Aralashtirib pishiriladi.",
+          "Pishloq va yog‘ qo‘shiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 105,
+        "name": "Gnocchi",
+        "rating": 4.7,
+        "desc": "Kartoshkali xamir bo‘laklari.",
+        "cook": "Paolo Romano",
+        "publishing_date": "9 yanvar, 2026",
+        "img": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2025-02/Potato-Gnocchi_2025_Lifestyle_ALT_H_045.jpg?itok=bYYFrg-L",
+        "cook_time": 35,
+        "ingredients": [
+          "kartoshka",
+          "un",
+          "tuxum",
+          "tuz",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Kartoshka qaynatiladi.",
+          "Ezilib xamir qilinadi.",
+          "Bo‘laklanadi.",
+          "Qaynoq suvda pishiriladi.",
+          "Yog‘ bilan tortiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 106,
+        "name": "Tiramisu",
+        "rating": 5.0,
+        "desc": "Qahvali shirin desert.",
+        "cook": "Francesca Moretti",
+        "publishing_date": "11 yanvar, 2026",
+        "img": "https://www.giallozafferano.com/images/260-26067/Tiramisu_1200x800.jpg",
+        "cook_time": 50,
+        "ingredients": [
+          "savoyardi pechenyasi",
+          "mascarpone",
+          "qahva",
+          "shakar",
+          "kakao"
+        ],
+        "steps": [
+          "Qahva tayyorlanadi.",
+          "Pechenya botiriladi.",
+          "Krem surtiladi.",
+          "Qavat qilinadi.",
+          "Sovutilib tortiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 107,
+        "name": "Focaccia",
+        "rating": 4.8,
+        "desc": "Zaytun moyli non.",
+        "cook": "Stefano Galli",
+        "publishing_date": "13 yanvar, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgPkW7al0fgHLkEyqkNcwtcGD75EBEuM-6Q&s",
+        "cook_time": 60,
+        "ingredients": [
+          "un",
+          "xamirturush",
+          "zaytun moyi",
+          "tuz",
+          "rozmarin"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Dam beriladi.",
+          "Qolipga yoyiladi.",
+          "Rozmarin sepiladi.",
+          "Duxovkada pishiriladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 108,
+        "name": "Bruschetta",
+        "rating": 4.7,
+        "desc": "Pomidorli tost non.",
+        "cook": "Elena Rizzo",
+        "publishing_date": "15 yanvar, 2026",
+        "img": "https://cdn.jwplayer.com/v2/media/3PP2DxVD/thumbnails/GCu5d7qU.jpg?width=1280",
+        "cook_time": 15,
+        "ingredients": [
+          "non",
+          "pomidor",
+          "sarimsoq",
+          "zaytun moyi",
+          "rayhon"
+        ],
+        "steps": [
+          "Non qovuriladi.",
+          "Sarimsoq surtiladi.",
+          "Pomidor qo‘shiladi.",
+          "Yog‘ sepiladi.",
+          "Rayhon bilan tortiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 109,
+        "name": "Panna Cotta",
+        "rating": 4.9,
+        "desc": "Qaymoqli desert.",
+        "cook": "Roberto De Luca",
+        "publishing_date": "17 yanvar, 2026",
+        "img": "https://www.allrecipes.com/thmb/NlP50cO2BjJdN4uGvl5JhW0Rx2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-72567-Panna-cotta-ddmfs-4x3-14ae724a2a8e4ca3a79c5e27b2b61994.jpg",
+        "cook_time": 25,
+        "ingredients": [
+          "qaymoq",
+          "sut",
+          "shakar",
+          "jelatin",
+          "vanilin"
+        ],
+        "steps": [
+          "Qaymoq qizdiriladi.",
+          "Shakar qo‘shiladi.",
+          "Jelatin eritiladi.",
+          "Qolipga quyiladi.",
+          "Sovutiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 110,
+        "name": "Caprese Salad",
+        "rating": 4.8,
+        "desc": "Pomidor va mozzarella salati.",
+        "cook": "Matteo Ricci",
+        "publishing_date": "19 yanvar, 2026",
+        "img": "https://whatsgabycooking.com/wp-content/uploads/2023/06/Dinner-Party-__-Traditional-Caprese-1-1200x800-1.jpg",
+        "cook_time": 10,
+        "ingredients": [
+          "pomidor",
+          "mozzarella pishlog‘i",
+          "rayhon",
+          "zaytun moyi",
+          "tuz"
+        ],
+        "steps": [
+          "Pomidor kesiladi.",
+          "Pishloq kesiladi.",
+          "Qatlam qilinadi.",
+          "Yog‘ sepiladi.",
+          "Tuz qo‘shiladi."
+        ],
+        "category": "italian"
+      },
+      {
+        "id": 111,
+        "name": "Machboos",
+        "rating": 5.0,
+        "desc": "Ziravorli guruch va go‘shtli milliy taom.",
+        "cook": "Saeed Al-Nuaimi",
+        "publishing_date": "1 fevral, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfzhJKiacIxPLc4IlqLWFnNMK46vsWkAYfQ&s",
+        "cook_time": 90,
+        "ingredients": [
+          "guruch",
+          "tovuq go‘shti",
+          "piyoz",
+          "pomidor",
+          "zira"
+        ],
+        "steps": [
+          "Piyoz yog‘da qovuriladi.",
+          "Tovuq bo‘laklari qo‘shiladi.",
+          "Pomidor va ziravor solinadi.",
+          "Suv quyilib dimlanadi.",
+          "Guruch solib pishiriladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 112,
+        "name": "Harees",
+        "rating": 4.9,
+        "desc": "Bug‘doy va go‘shtli quyuq taom.",
+        "cook": "Mansoor Al-Falasi",
+        "publishing_date": "3 fevral, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3kdKoWP7gMwvqrLPGnTwIfs-Pf2dM8ukb2A&s",
+        "cook_time": 100,
+        "ingredients": [
+          "bug‘doy",
+          "qo‘y go‘shti",
+          "suv",
+          "tuz",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Bug‘doy namlanadi.",
+          "Go‘sht bilan qaynatiladi.",
+          "Ezib aralashtiriladi.",
+          "Tuz qo‘shiladi.",
+          "Sariyog‘ bilan tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 113,
+        "name": "Thareed",
+        "rating": 4.8,
+        "desc": "Sho‘rvaga botirilgan non va go‘sht.",
+        "cook": "Rashid Al-Maktoum",
+        "publishing_date": "5 fevral, 2026",
+        "img": "https://d12eu00glpdtk2.cloudfront.net/public/images/dining/vegetarian-qatari-food-thareed/_910x600_clip_center-center_none/thareedsmall.jpg",
+        "cook_time": 85,
+        "ingredients": [
+          "mol go‘shti",
+          "non",
+          "piyoz",
+          "pomidor",
+          "kartoshka"
+        ],
+        "steps": [
+          "Go‘sht qaynatiladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Sho‘rva tayyorlanadi.",
+          "Non ustiga quyiladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 114,
+        "name": "Balaleet",
+        "rating": 4.7,
+        "desc": "Shirin vermishel va tuxumli taom.",
+        "cook": "Aisha Al-Ansari",
+        "publishing_date": "7 fevral, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-Gxw-NsCAJGV_ylLVGcinxTsO7_LxOTdRg&s",
+        "cook_time": 35,
+        "ingredients": [
+          "vermishel",
+          "tuxum",
+          "shakar",
+          "kardamon",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Vermishel qaynatiladi.",
+          "Shakar va kardamon qo‘shiladi.",
+          "Tuxum qovuriladi.",
+          "Ustiga qo‘yiladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 115,
+        "name": "Luqaimat",
+        "rating": 5.0,
+        "desc": "Siropga botirilgan shirin sharchalar.",
+        "cook": "Fatima Al-Zahra",
+        "publishing_date": "9 fevral, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXW1UZxa4RRR2EGxyFTFTmzTXx-lExhjWmA&s",
+        "cook_time": 30,
+        "ingredients": [
+          "un",
+          "xamirturush",
+          "shakar",
+          "suv",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Dam beriladi.",
+          "Sharchalar qilinadi.",
+          "Yog‘da qovuriladi.",
+          "Siropga botiriladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 116,
+        "name": "Madrooba",
+        "rating": 4.8,
+        "desc": "Tovuq va bug‘doyli quyuq taom.",
+        "cook": "Khalifa Al-Hammadi",
+        "publishing_date": "11 fevral, 2026",
+        "img": "https://i0.wp.com/www.onearabvegan.com/wp-content/uploads/2013/09/vegan-mathrooba-3.png?ssl=1",
+        "cook_time": 95,
+        "ingredients": [
+          "tovuq go‘shti",
+          "bug‘doy",
+          "sarimsoq",
+          "tuz",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Bug‘doy qaynatiladi.",
+          "Tovuq qo‘shiladi.",
+          "Sarimsoq solinadi.",
+          "Ezib aralashtiriladi.",
+          "Sariyog‘ bilan tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 117,
+        "name": "Chebab",
+        "rating": 4.7,
+        "desc": "Shirin arab pankeyki.",
+        "cook": "Noor Al-Kaabi",
+        "publishing_date": "13 fevral, 2026",
+        "img": "https://content.lookandcook.com/cdn/shop/files/LC14262KhobsJbabRecipe_MAIN-LC14093-3043.jpg?v=1684781606",
+        "cook_time": 25,
+        "ingredients": [
+          "un",
+          "tuxum",
+          "sut",
+          "shakar",
+          "kardamon"
+        ],
+        "steps": [
+          "Xamir aralashtiriladi.",
+          "Tovaga quyiladi.",
+          "Bir tomoni pishiriladi.",
+          "Ag‘dariladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 118,
+        "name": "Samboosa",
+        "rating": 4.8,
+        "desc": "Ichli qovurilgan pirojka.",
+        "cook": "Omar Al-Balushi",
+        "publishing_date": "15 fevral, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaOMuor9u576WfIHLZt0lRfnK8AW9sD1XZw&s",
+        "cook_time": 40,
+        "ingredients": [
+          "xamir",
+          "mol go‘shti",
+          "piyoz",
+          "murch",
+          "o‘simlik moyi"
+        ],
+        "steps": [
+          "Go‘sht va piyoz qovuriladi.",
+          "Ziravor solinadi.",
+          "Xamirga solinadi.",
+          "Uchburchak qilinadi.",
+          "Yog‘da qovuriladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 119,
+        "name": "Regag Bread",
+        "rating": 4.6,
+        "desc": "Yupqa an’anaviy non.",
+        "cook": "Hamad Al-Mazrouei",
+        "publishing_date": "17 fevral, 2026",
+        "img": "https://safinstantgulf.com/wp-content/uploads/2022/07/regag-bread.jpg",
+        "cook_time": 20,
+        "ingredients": [
+          "un",
+          "suv",
+          "tuz",
+          "yog‘",
+          "xamirturush"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Yupqa yoyiladi.",
+          "Tovada pishiriladi.",
+          "Yog‘ surtiladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 120,
+        "name": "Khameer Bread",
+        "rating": 4.9,
+        "desc": "Yumshoq shirin non.",
+        "cook": "Salem Al-Shamsi",
+        "publishing_date": "19 fevral, 2026",
+        "img": "https://almandi-house.ae/wp-content/uploads/2022/03/Khameer-DSC05520.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "un",
+          "xamirturush",
+          "shakar",
+          "sut",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Dam beriladi.",
+          "Shakl beriladi.",
+          "Duxovkada pishiriladi.",
+          "Sovutib tortiladi."
+        ],
+        "category": "dubai"
+      },
+      {
+        "id": 121,
+        "name": "Croissant",
+        "rating": 5.0,
+        "desc": "Sariyog‘li qatlamli non.",
+        "cook": "Pierre Dubois",
+        "publishing_date": "1 mart, 2026",
+        "img": "https://d2joqs9jfh6k92.cloudfront.net/wp-content/uploads/2021/02/12100259/saintcroissants_135854322_115639887090527_6886557584102451475_n.jpg",
+        "cook_time": 120,
+        "ingredients": [
+          "un",
+          "sariyog‘",
+          "sut",
+          "shakar",
+          "xamirturush"
+        ],
+        "steps": [
+          "Xamir qoriladi.",
+          "Sariyog‘ qatlanadi.",
+          "Yoyilib buklanadi.",
+          "Shakl beriladi.",
+          "Duxovkada pishiriladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 122,
+        "name": "Ratatouille",
+        "rating": 4.9,
+        "desc": "Sabzavotli dimlama.",
+        "cook": "Jean Martin",
+        "publishing_date": "3 mart, 2026",
+        "img": "https://www.makebetterfood.com/recipes/ratatouille-a-la-remy/ratatouille-a-la-remy_large.webp",
+        "cook_time": 60,
+        "ingredients": [
+          "baqlajon",
+          "kabachki",
+          "pomidor",
+          "piyoz",
+          "zaytun moyi"
+        ],
+        "steps": [
+          "Sabzavotlar kesiladi.",
+          "Yog‘da qovuriladi.",
+          "Qozonga teriladi.",
+          "Dimlanadi.",
+          "Issiq tortiladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 123,
+        "name": "Quiche Lorraine",
+        "rating": 4.8,
+        "desc": "Qaymoqli ochiq pirog.",
+        "cook": "Sophie Laurent",
+        "publishing_date": "5 mart, 2026",
+        "img": "https://insidermama.com/wp-content/uploads/2025/04/8-quiche.webp",
+        "cook_time": 70,
+        "ingredients": [
+          "xamir",
+          "tuxum",
+          "qaymoq",
+          "bekon",
+          "pishloq"
+        ],
+        "steps": [
+          "Xamir qolipga yoyiladi.",
+          "Ichlik aralashtiriladi.",
+          "Ustiga quyiladi.",
+          "Pishloq sepiladi.",
+          "Duxovkada pishiriladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 124,
+        "name": "Boeuf Bourguignon",
+        "rating": 5.0,
+        "desc": "Sharobda dimlangan mol go‘shti.",
+        "cook": "Michel Bernard",
+        "publishing_date": "7 mart, 2026",
+        "img": "https://ichef.bbc.co.uk/ace/standard/1600/food/recipes/boeuf_bourguignon_25475_16x9.jpg.webp",
+        "cook_time": 150,
+        "ingredients": [
+          "mol go‘shti",
+          "piyoz",
+          "sabzi",
+          "qizil sharob",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Go‘sht qovuriladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Sharob quyiladi.",
+          "Dimlanadi.",
+          "Yumshoq bo‘lguncha pishiriladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 125,
+        "name": "Crêpes",
+        "rating": 4.8,
+        "desc": "Yupqa shirin krep.",
+        "cook": "Claire Moreau",
+        "publishing_date": "9 mart, 2026",
+        "img": "https://www.theconsciousplantkitchen.com/wp-content/uploads/2019/12/Vegan-Crepes-1-1.jpg",
+        "cook_time": 25,
+        "ingredients": [
+          "un",
+          "sut",
+          "tuxum",
+          "shakar",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Xamir aralashtiriladi.",
+          "Tovaga quyiladi.",
+          "Ikkala tomoni pishiriladi.",
+          "Yog‘ surtiladi.",
+          "Issiq tortiladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 126,
+        "name": "Soupe à l’oignon",
+        "rating": 4.7,
+        "desc": "Piyozli sho‘rva.",
+        "cook": "Louis Girard",
+        "publishing_date": "11 mart, 2026",
+        "img": "https://brasseriemadeleine-orleans.fr/wp-content/uploads/2024/06/soupe-oignon-gratinee-delicieuse-et-reconfortante.webp",
+        "cook_time": 80,
+        "ingredients": [
+          "piyoz",
+          "sariyog‘",
+          "mol bulyoni",
+          "non",
+          "pishloq"
+        ],
+        "steps": [
+          "Piyoz qovuriladi.",
+          "Bulyon qo‘shiladi.",
+          "Qaynatiladi.",
+          "Non ustiga quyiladi.",
+          "Pishloq sepiladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 127,
+        "name": "Coq au Vin",
+        "rating": 4.9,
+        "desc": "Sharobda dimlangan tovuq.",
+        "cook": "Antoine Lefevre",
+        "publishing_date": "13 mart, 2026",
+        "img": "https://static01.nyt.com/images/2023/08/24/multimedia/MC-Coq-Au-Van-ctpm/MC-Coq-Au-Van-ctpm-videoSixteenByNineJumbo1600.jpg",
+        "cook_time": 120,
+        "ingredients": [
+          "tovuq go‘shti",
+          "piyoz",
+          "sabzi",
+          "qizil sharob",
+          "sariyog‘"
+        ],
+        "steps": [
+          "Tovuq qovuriladi.",
+          "Sabzavotlar qo‘shiladi.",
+          "Sharob quyiladi.",
+          "Dimlanadi.",
+          "Yumshoq bo‘lguncha pishiriladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 128,
+        "name": "Nicoise Salad",
+        "rating": 4.6,
+        "desc": "Baliqli va sabzavotli salat.",
+        "cook": "Julien Morel",
+        "publishing_date": "15 mart, 2026",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_xWf-Jw4qttUCPNdCKuaPhYHdd-6mDMD_w&s",
+        "cook_time": 20,
+        "ingredients": [
+          "tuna baliq",
+          "pomidor",
+          "tuxum",
+          "zaytun",
+          "zaytun moyi"
+        ],
+        "steps": [
+          "Tuxum qaynatiladi.",
+          "Sabzavotlar kesiladi.",
+          "Baliq qo‘shiladi.",
+          "Yog‘ sepiladi.",
+          "Aralashtirib tortiladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 129,
+        "name": "Macarons",
+        "rating": 5.0,
+        "desc": "Rangli bodomli pechenye.",
+        "cook": "Amelie Roche",
+        "publishing_date": "17 mart, 2026",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyXTlIda-AwJtWPwmTTwc_gtHIJ-iFEHrOYtQ4CGj7vTw_QurPb1vlMYTU_0WL0BkQN_VxqEiDR5s9vjY0021PofMOkb0YyVL8_aLPgcPcUG2pIrFU29Ykfmb6Ca8YhuM_pp1zcN1vFUf/s1600/Easter+Macarons+156.JPG",
+        "cook_time": 90,
+        "ingredients": [
+          "bodom uni",
+          "tuxum oqi",
+          "shakar",
+          "rang beruvchi",
+          "krem"
+        ],
+        "steps": [
+          "Xamir aralashtiriladi.",
+          "Doira shakl qilinadi.",
+          "Duxovkada pishiriladi.",
+          "Sovutiladi.",
+          "Krem bilan yopishtiriladi."
+        ],
+        "category": "french"
+      },
+      {
+        "id": 130,
+        "name": "Crème Brûlée",
+        "rating": 5.0,
+        "desc": "Karamellangan qaymoqli desert.",
+        "cook": "Thomas Petit",
+        "publishing_date": "19 mart, 2026",
+        "img": "https://thekoreanvegan.com/wp-content/uploads/2025/05/20250503-3O6A8605-1024x683.jpg",
+        "cook_time": 60,
+        "ingredients": [
+          "qaymoq",
+          "tuxum sarig‘i",
+          "shakar",
+          "vanilin",
+          "sut"
+        ],
+        "steps": [
+          "Qaymoq qizdiriladi.",
+          "Tuxum va shakar aralashtiriladi.",
+          "Qolipga quyiladi.",
+          "Suv hammomida pishiriladi.",
+          "Shakar karamellashadi."
+        ],
+        "category": "french"
+      }
+      
+      
+  ]
+}
