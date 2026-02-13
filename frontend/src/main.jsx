@@ -12,17 +12,34 @@ import Hind from "./pages/Hind";
 import Misr from "./pages/Misr";
 import Italyan from "./pages/Italyan";
 import Fransuz from "./pages/Fransuz";
+import Hammasi from "./pages/Hammasi";
 import Dubay from "./pages/Dubay";
 import Saudi from "./pages/Arabiston";
 import Rus from "./pages/Rus";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import FoodsDetail from "./pages/SingleFood";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Category from './pages/Category'
+import Retsept from "./pages/Retsept";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+  },
+  {
+    path: "/kategoriyalar",
+    element: <Category />,
+  },
+  {
+    path: "/add-recipe",
+    element: <Retsept />,
+  },
+  {
+    path: "/contact",
+    element: <Contact />,
   },
   {
     path: "/uzbek",
@@ -79,6 +96,14 @@ const router = createBrowserRouter([
   {
     path: "/foods/:id",
     element: <FoodsDetail />,
+  },
+  {
+    path: "/hammasi",
+    element: <Hammasi />,
+  },
+  {
+    path: "/biz-haqimizda",
+    element: <About />,
   },
 ]);
 
